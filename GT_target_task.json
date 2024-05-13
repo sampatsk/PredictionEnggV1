@@ -1,0 +1,3647 @@
+[
+    {
+      "dataset_path": "spaceship-titanic-in-all-probability_train.csv",
+      "target_feature": [
+        "Transported"
+      ],
+      "task": "classification",
+      "description": "Predict the probability that each passenger was transported to an alternate dimension"
+    },
+    {
+      "dataset_path": "dileep070_heart-disease-prediction-using-logistic-regression_framingham.csv",
+      "target_feature": [
+        "TenYearCHD"
+      ],
+      "task": "classification",
+      "description": "heart disease prediction"
+    },
+    {
+      "dataset_path": "zhangjuefei_birds-bones-and-living-habits_bird.csv",
+      "target_feature": [
+        "type"
+      ],
+      "task": "classification",
+      "description": "Measurements of bones and ecological groups of birds"
+    },
+    {
+      "dataset_path": "kevinmh_fifa-18-more-complete-player-dataset_complete.csv",
+      "target_feature": [
+        "overall",
+        "rs",
+        "rw",
+        "rf",
+        "ram",
+        "rcm",
+        "rm",
+        "rdm",
+        "rcb",
+        "rb",
+        "rwb",
+        "st",
+        "lw",
+        "cf",
+        "cam",
+        "cm",
+        "lm",
+        "cdm",
+        "cb",
+        "lb",
+        "lwb",
+        "ls",
+        "lf",
+        "lam",
+        "lcm",
+        "ldm",
+        "lcb"
+      ],
+      "task": "classification",
+      "description": "FIFA 18 Player Data++."
+    },
+    {
+      "dataset_path": "lodetomasi1995_income-classification_income_evaluation.csv",
+      "target_feature": [
+        "income"
+      ],
+      "task": "classification",
+      "description": "Prediction task is to determine whether a person makes over 50K a year."
+    },
+    {
+      "dataset_path": "shrutimehta_nasa-asteroids-classification_nasa.csv",
+      "target_feature": [
+        "Hazardous"
+      ],
+      "task": "classification",
+      "description": "Data Collected from NASA API"
+    },
+    {
+      "dataset_path": "d4rklucif3r_social-network-ads_Social_Network_Ads.csv",
+      "target_feature": [
+        "Purchased"
+      ],
+      "task": "classification",
+      "description": "Predict Whether the product has been purchased or not"
+    },
+    {
+      "dataset_path": "manasgarg_ipl_matches.csv",
+      "target_feature": [
+        "winner"
+      ],
+      "task": "classification",
+      "description": "Ball-By-Ball Cricket Data"
+    },
+    {
+      "dataset_path": "vjchoudhary7_customer-segmentation-tutorial-in-python_Mall_Customers.csv",
+      "target_feature": [
+        "Spending Score (1-100)"
+      ],
+      "task": "regression",
+      "description": "Market Basket Analysis"
+    },
+    {
+      "dataset_path": "upadorprofzs_credit-risk_original.csv",
+      "target_feature": [
+        "default"
+      ],
+      "task": "classification",
+      "description": "This dataset contains columns simulating credit bureau data"
+    },
+    {
+      "dataset_path": "camnugent_california-housing-prices_housing.csv",
+      "target_feature": [
+        "median_house_value"
+      ],
+      "task": "regression",
+      "description": "Median house prices for California districts derived from the 1990 census."
+    },
+    {
+      "dataset_path": "imnikhilanand_heart-attack-prediction_data.csv",
+      "target_feature": [
+        "num"
+      ],
+      "task": "classification",
+      "description": "This file describes the contents of the heart-disease directory."
+    },
+    {
+      "dataset_path": "predict-who-is-more-influential-in-a-social-network_train.csv",
+      "target_feature": [
+        "Choice"
+      ],
+      "task": "classification",
+      "description": "Predict which people are influential in a social network"
+    },
+    {
+      "dataset_path": "dansbecker_nba-shot-logs_shot_logs.csv",
+      "target_feature": [
+        "FGM"
+      ],
+      "task": "classification",
+      "description": "Moneyball data, for basketball."
+    },
+    {
+      "dataset_path": "new-york-city_new-york-city-current-job-postings_nyc-jobs.csv",
+      "target_feature": [
+        "Salary Range From"
+      ],
+      "task": "regression",
+      "description": "Explore Open Data from New York City"
+    },
+    {
+      "dataset_path": "shivamb_real-or-fake-fake-jobposting-prediction_fake_job_postings.csv",
+      "target_feature": [
+        "fraudulent"
+      ],
+      "task": "classification",
+      "description": "Dataset of real and fake job postings"
+    },
+    {
+      "dataset_path": "johndasilva_diabetes_diabetes.csv",
+      "target_feature": [
+        "Outcome"
+      ],
+      "task": "classification",
+      "description": "Dataset of diabetes, taken from the hospital Frankfurt, Germany"
+    },
+    {
+      "dataset_path": "hellbuoy_car-price-prediction_CarPrice_Assignment.csv",
+      "target_feature": [
+        "price"
+      ],
+      "task": "regression",
+      "description": "Predicting the Prices of cars using RFE and VIF"
+    },
+    {
+      "dataset_path": "rashikrahmanpritom_heart-attack-analysis-prediction-dataset_heart.csv",
+      "target_feature": [
+        "output"
+      ],
+      "task": "classification",
+      "description": "A dataset for heart attack classification"
+    },
+    {
+      "dataset_path": "gilsousa_habermans-survival-data-set_haberman.csv",
+      "target_feature": [
+        "Survival_Status"
+      ],
+      "task": "classification",
+      "description": "Survival of patients who had undergone surgery for breast cancer"
+    },
+    {
+      "dataset_path": "blastchar_telco-customer-churn_WA_Fn-UseC_-Telco-Customer-Churn.csv",
+      "target_feature": [
+        "Churn"
+      ],
+      "task": "classification",
+      "description": "Focused customer retention programs"
+    },
+    {
+      "dataset_path": "amanajmera1_framingham-heart-study-dataset_framingham.csv",
+      "target_feature": [
+        "TenYearCHD"
+      ],
+      "task": "classification",
+      "description": "Framingham heart disease dataset"
+    },
+    {
+      "dataset_path": "chirin_africa-economic-banking-and-systemic-crisis-data_african_crises.csv",
+      "target_feature": [
+        "inflation_crises"
+      ],
+      "task": "classification",
+      "description": "Data on Economic and Financial crises in 13 African Countries (1860 to 2014)"
+    },
+    {
+      "dataset_path": "crawford_80-cereals_cereal.csv",
+      "target_feature": [
+        "rating"
+      ],
+      "task": "regression",
+      "description": "Nutrition data on 80 cereal products"
+    },
+    {
+      "dataset_path": "g-research-crypto-forecasting_train.csv",
+      "target_feature": [
+        "Target"
+      ],
+      "task": "regression",
+      "description": "Use your ML expertise to predict real crypto market data"
+    },
+    {
+      "dataset_path": "giripujar_hr-analytics_HR_comma_sep.csv",
+      "target_feature": [
+        "left"
+      ],
+      "task": "classification",
+      "description": "HR Analytics for employee rentension"
+    },
+    {
+      "dataset_path": "siddharthm1698_coursera-course-dataset_coursea_data.csv",
+      "target_feature": [
+        "course_rating"
+      ],
+      "task": "regression",
+      "description": "Course dataset scrapped from Coursera website"
+    },
+    {
+      "dataset_path": "playground-series-s3e19_train.csv",
+      "target_feature": [
+        "num_sold"
+      ],
+      "task": "regression",
+      "description": "For this challenge, you will be predicting a full year worth of sales for various fictitious learning modules from different fictitious Kaggle-branded stores in different (real!) countries"
+    },
+    {
+      "dataset_path": "vishnuvarthanrao_windows-store_msft.csv",
+      "target_feature": [
+        "Rating"
+      ],
+      "task": "regression",
+      "description": "Dataset of the apps in the Microsoft Windows Store"
+    },
+    {
+      "dataset_path": "shivam2503_diamonds_diamonds.csv",
+      "target_feature": [
+        "price"
+      ],
+      "task": "regression",
+      "description": "Analyze diamonds by their cut, color, clarity, price, and other attributes"
+    },
+    {
+      "dataset_path": "dorianlazar_medium-articles-dataset_medium_data.csv",
+      "target_feature": [
+        "claps"
+      ],
+      "task": "regression",
+      "description": "Data about 6K+ articles published in 2019 from 7 different publications"
+    },
+    {
+      "dataset_path": "mrisdal_married-at-first-sight_mafs.csv",
+      "target_feature": [
+        "Decision"
+      ],
+      "task": "classification",
+      "description": "What makes couples stay together?"
+    },
+    {
+      "dataset_path": "mathchi_churn-for-bank-customers_churn.csv",
+      "target_feature": [
+        "Exited"
+      ],
+      "task": "classification",
+      "description": "Predict customer churn in a bank"
+    },
+    {
+      "dataset_path": "kukuroo3_body-performance-data_bodyPerformance.csv",
+      "target_feature": [
+        "class"
+      ],
+      "task": "classification",
+      "description": "This is data that confirmed the grade of performance with age and some exercise performance data."
+    },
+    {
+      "dataset_path": "rtatman_chocolate-bar-ratings_flavors_of_cacao.csv",
+      "target_feature": [
+        "Rating"
+      ],
+      "task": "classification",
+      "description": "Expert ratings of over 1,700 chocolate bars"
+    },
+    {
+      "dataset_path": "sarahvch_predicting-who-pays-back-loans_loan_data.csv",
+      "target_feature": [
+        "not.fully.paid"
+      ],
+      "task": "classification",
+      "description": "The data being used for this analysis includes attributes of borrowers such as fico score, interest rate, purpose of loan and if the loan was paid off in full."
+    },
+    {
+      "dataset_path": "stayalert_fordTrain.csv",
+      "target_feature": [
+        "IsAlert"
+      ],
+      "task": "classification",
+      "description": "The objective is to design a classifier that will detect whether the driver is alert or not alert, employing data that are acquired while driving."
+    },
+    {
+      "dataset_path": "swathiachath_kc-housesales-data_kc_house_data.csv",
+      "target_feature": [
+        "price"
+      ],
+      "task": "regression",
+      "description": "Predict House sale prices using Multi-Linear Regression"
+    },
+    {
+      "dataset_path": "tejashvi14_employee-future-prediction_Employee.csv",
+      "target_feature": [
+        "LeaveOrNot"
+      ],
+      "task": "classification",
+      "description": "Predict Employee Future In Company"
+    },
+    {
+      "dataset_path": "elikplim_forest-fires-data-set_forestfires.csv",
+      "target_feature": [
+        "area"
+      ],
+      "task": "regression",
+      "description": "predict the burned area of forest fires using meteorological and other data"
+    },
+    {
+      "dataset_path": "keplersmachines_kepler-labelled-time-series-data_exoTrain.csv",
+      "target_feature": [
+        "LABEL"
+      ],
+      "task": "classification",
+      "description": "Each star has a binary label of 2 or 1. 2 indicated that that the star is confirmed to have at least one exoplanet in orbit; some observations are in fact multi-planet systems."
+    },
+    {
+      "dataset_path": "pavanraj159_predicting-a-pulsar-star_pulsar_stars.csv",
+      "target_feature": [
+        "target_class"
+      ],
+      "task": "classification",
+      "description": "Pulsar candidates collected during the High Time Resolution Universe Survey"
+    },
+    {
+      "dataset_path": "abineshkumark_carsdata_cars.csv",
+      "target_feature": [
+        "brand"
+      ],
+      "task": "classification",
+      "description": "Data for predicting the car make"
+    },
+    {
+      "dataset_path": "camnugent_sandp500_all_stocks_5yr.csv",
+      "target_feature": [
+        "close"
+      ],
+      "task": "regression",
+      "description": "Historical stock data for all current S&P 500 companies"
+    },
+    {
+      "dataset_path": "rtatman_did-it-rain-in-seattle-19482017_seattleWeather_1948-2017.csv",
+      "target_feature": [
+        "RAIN"
+      ],
+      "task": "classification",
+      "description": "Did it rain in Seattle? (1948-2017)"
+    },
+    {
+      "dataset_path": "eswarchandt_amazon-music-reviews_Musical_instruments_reviews.csv",
+      "target_feature": [
+        "overall"
+      ],
+      "task": "classification",
+      "description": "Build the model which has highest accuracy in classifying the feedback as positive,Negative and neutral."
+    },
+    {
+      "dataset_path": "akram24_position-salaries_Position_Salaries.csv",
+      "target_feature": [
+        "Salary"
+      ],
+      "task": "regression",
+      "description": "Position_Salaries"
+    },
+    {
+      "dataset_path": "abcsds_pokemon_Pokemon.csv",
+      "target_feature": [
+        "Legendary"
+      ],
+      "task": "classification",
+      "description": "721 Pokemon with stats and types"
+    },
+    {
+      "dataset_path": "PromptCloudHQ_world-happiness-report-2019_world-happiness-report-2019.csv",
+      "target_feature": [
+        "SD of Ladder"
+      ],
+      "task": "regression",
+      "description": "World happiness gauged by technologies, social norms, and government policies."
+    },
+    {
+      "dataset_path": "farhanmd29_position-salaries_Position_Salaries.csv",
+      "target_feature": [
+        "Salary"
+      ],
+      "task": "regression",
+      "description": "This dataset consists of a list of positions in a company along with the band levels and their associated salary."
+    },
+    {
+      "dataset_path": "xwolf12_malicious-and-benign-websites_dataset.csv",
+      "target_feature": [
+        "Type"
+      ],
+      "task": "classification",
+      "description": "Classify by application and network features"
+    },
+    {
+      "dataset_path": "residentmario_ramen-ratings_ramen-ratings.csv",
+      "target_feature": [
+        "Brand"
+      ],
+      "task": "classification",
+      "description": "Over 2500 ramen ratings"
+    },
+    {
+      "dataset_path": "greenwing1985_housepricing_HousePrices_HalfMil.csv",
+      "target_feature": [
+        "Prices"
+      ],
+      "task": "regression",
+      "description": "Housing Prices Prediction - Regression Problem"
+    },
+    {
+      "dataset_path": "fabdelja_autism-screening-for-toddlers_ToddlerAutismdatasetJuly2018.csv",
+      "target_feature": [
+        "Class/ASD Traits"
+      ],
+      "task": "regression",
+      "description": "Autism data for infants classification"
+    },
+    {
+      "dataset_path": "rajyellow46_wine-quality_winequalityN.csv",
+      "target_feature": [
+        "quality"
+      ],
+      "task": "classification",
+      "description": "Wine Quality"
+    },
+    {
+      "dataset_path": "hassanamin_textdb3_fake_or_real_news.csv",
+      "target_feature": [
+        "label"
+      ],
+      "task": "classification",
+      "description": "Balanced dataset for fake news analysis"
+    },
+    {
+      "dataset_path": "playground-series-s3e16_train.csv",
+      "target_feature": [
+        "Age"
+      ],
+      "task": "regression",
+      "description": "your objective is to predict the probability of Age (the ground truth is int but you can predict int or float)"
+    },
+    {
+      "dataset_path": "nphantawee_pump-sensor-data_sensor.csv",
+      "target_feature": [
+        "machine_status"
+      ],
+      "task": "classification",
+      "description": "Pump sensor data for predictive maintenance"
+    },
+    {
+      "dataset_path": "housing-prices.csv",
+      "target_feature": [
+        "SalePrice"
+      ],
+      "task": "regression",
+      "description": "Predict sales prices and practice feature engineering, RFs, and gradient boosting"
+    },
+    {
+      "dataset_path": "1049.csv",
+      "target_feature": [
+        "c"
+      ],
+      "task": "classification",
+      "description": "One of the NASA Metrics Data Program defect data sets"
+    },
+    {
+      "dataset_path": "554.csv",
+      "target_feature": [
+        "class"
+      ],
+      "task": "classification",
+      "description": "The MNIST database of handwritten digits with 784 features"
+    },
+    {
+      "dataset_path": "glass.csv",
+      "target_feature": [
+        "Type"
+      ],
+      "task": "classification",
+      "description": "This is a Glass Identification Data Set from UCI. It contains 10 attributes including id. The response is glass type(discrete 7 values)"
+    },
+    {
+      "dataset_path": "179.csv",
+      "target_feature": [
+        "class"
+      ],
+      "task": "classification",
+      "description": "Prediction task is to determine whether a person makes over 50K a year."
+    },
+    {
+      "dataset_path": "293.csv",
+      "target_feature": [
+        "Y"
+      ],
+      "task": "classification",
+      "description": "This is the famous covertype dataset in its binary version, retrieved 2013-11-13 from the libSVM site (called covtype.binary there)"
+    },
+    {
+      "dataset_path": "1120.csv",
+      "target_feature": [
+        "class"
+      ],
+      "task": "classification",
+      "description": "The data are MC generated (see below) to simulate registration of high energy gamma particles in a ground-based atmospheric Cherenkov gamma telescope using the imaging technique"
+    },
+    {
+      "dataset_path": "breast_cancer_wisconsin.csv",
+      "target_feature": [
+        "diagnosis"
+      ],
+      "task": "classification",
+      "description": "Features are computed from a digitized image of a fine needle aspirate (FNA) of a breast mass."
+    },
+    {
+      "dataset_path": "ionosphere.csv",
+      "target_feature": [
+        "label"
+      ],
+      "task": "classification",
+      "description": "Classification of radar returns from the ionosphere"
+    },
+    {
+      "dataset_path": "mercedes-benz.csv",
+      "target_feature": [
+        "y"
+      ],
+      "task": "regression",
+      "description": "Can you cut the time a Mercedes-Benz spends on the test bench?"
+    },
+    {
+      "dataset_path": "772.csv",
+      "target_feature": [
+        "binaryClass"
+      ],
+      "task": "classification",
+      "description": "It converts the numeric target feature to a two-class nominal target feature by computing the mean and classifying all instances with a lower target value as positive ('P') and all others as negative ('N')."
+    },
+    {
+      "dataset_path": "1128.csv",
+      "target_feature": [
+        "Tissue"
+      ],
+      "task": "classification",
+      "description": "GEMLeR provides a collection of gene expression datasets that can be used for benchmarking gene expression oriented machine learning algorithms"
+    },
+    {
+      "dataset_path": "184.csv",
+      "target_feature": [
+        "game"
+      ],
+      "task": "classification",
+      "description": "Classify a chess game based on the position of the white king, the white rook and the black king."
+    },
+    {
+      "dataset_path": "38.csv",
+      "target_feature": [
+        "Class"
+      ],
+      "task": "classification",
+      "description": "Attribute information: sick, negative.   |  classes"
+    },
+    {
+      "dataset_path": "389.csv",
+      "target_feature": [
+        "CLASS_LABEL"
+      ],
+      "task": "classification",
+      "description": "fbis.wc"
+    },
+    {
+      "dataset_path": "46.csv",
+      "target_feature": [
+        "Class"
+      ],
+      "task": "classification",
+      "description": "This problem consists of two subtasks: recognizing exon/intron boundaries (referred to as EI sites), and recognizing intron/exon boundaries (IE sites). (In the biological community, IE borders are referred to a ''acceptors'' while EI borders are referred to as ''donors''.)"
+    },
+    {
+      "dataset_path": "917.csv",
+      "target_feature": [
+        "binaryClass"
+      ],
+      "task": "classification",
+      "description": "It converts the numeric target feature to a two-class nominal target feature by computing the mean and classifying all instances with a lower target value as positive ('P') and all others as negative ('N')."
+    },
+    {
+      "dataset_path": "car_evaluation.csv",
+      "target_feature": [
+        "target"
+      ],
+      "task": "classification",
+      "description": "may be useful for testing constructive induction and structure discovery methods"
+    },
+    {
+      "dataset_path": "wine_quality_red.csv",
+      "target_feature": [
+        "quality"
+      ],
+      "task": "classification",
+      "description": "The goal is to model wine quality based on physicochemical tests"
+    },
+    {
+      "dataset_path": "wine_quality_white.csv",
+      "target_feature": [
+        "target"
+      ],
+      "task": "classification",
+      "description": " The inputs include objective tests (e.g. PH values) and the output is based on sensory data (median of at least 3 evaluations made by wine experts)"
+    },
+    {
+      "dataset_path": "spambase.csv",
+      "target_feature": [
+        "class"
+      ],
+      "task": "classification",
+      "description": "Classifying Email as Spam or Non-Spam"
+    },
+    {
+      "dataset_path": "Hill_Valley_with_noise.csv",
+      "target_feature": [
+        "target"
+      ],
+      "task": "classification",
+      "description": "When plotted in order (from 1 through 100) as the Y co-ordinate, the points will create either a Hill (a “bump” in the terrain) or a Valley (a “dip” in the terrain)"
+    },
+    {
+      "dataset_path": "Hill_Valley_without_noise.csv",
+      "target_feature": [
+        "target"
+      ],
+      "task": "classification",
+      "description": "When plotted in order (from 1 through 100) as the Y co-ordinate, the points will create either a Hill (a “bump” in the terrain) or a Valley (a “dip” in the terrain)"
+    },
+    {
+      "dataset_path": "jura.csv",
+      "target_feature": [
+        "Cd",
+        "Co",
+        "Cu"
+      ],
+      "task": "regression",
+      "description": "It contains four data.frames: prediction.dat, validation.dat and transect.dat and juragrid.dat, and three data.frames with consistently coded land use and rock type factors, as well as geographic coordinates"
+    },
+    {
+      "dataset_path": "enb.csv",
+      "target_feature": [
+        "Y1",
+        "Y2"
+      ],
+      "task": "regression",
+      "description": "The Energy Building dataset (Tsanas and Xifara 2012) concerns the prediction of the heating load and cooling load requirements of buildings (i.e. energy efficiency) as a function of eight building parameters such as glazing area, roof area, and overall height, amongst others"
+    },
+    {
+      "dataset_path": "sf1.csv",
+      "target_feature": [
+        "c-class",
+        "m-class",
+        "x-class"
+      ],
+      "task": "regression",
+      "description": "The Solar Flare dataset (Lichman 2013) has 3 target variables that correspond to the number of times 3 types of solar flare (common, moderate, severe) are observed within 24 h"
+    },
+    {
+      "dataset_path": "sf2.csv",
+      "target_feature": [
+        "c-class",
+        "m-class",
+        "x-class"
+      ],
+      "task": "regression",
+      "description": "The Solar Flare dataset (Lichman 2013) has 3 target variables that correspond to the number of times 3 types of solar flare (common, moderate, severe) are observed within 24 h"
+    },
+    {
+      "dataset_path": "spooky-author-identification.csv",
+      "target_feature": [
+        "author"
+      ],
+      "task": "classification",
+      "description": "Share code and discuss insights to identify horror authors from their writings"
+    },
+    {
+      "dataset_path": "titanic.csv",
+      "target_feature": [
+        "Survived"
+      ],
+      "task": "classification",
+      "description": "Start here! Predict survival on the Titanic and get familiar with ML basics"
+    },
+    {
+      "dataset_path": "detecting-insults-in-social-commentary.csv",
+      "target_feature": [
+        "Insult"
+      ],
+      "task": "classification",
+      "description": "Predict whether a comment posted during a public discussion is considered insulting to one of the participants."
+    },
+    {
+      "dataset_path": "sentiment-analysis-on-movie-reviews.csv",
+      "target_feature": [
+        "Sentiment"
+      ],
+      "task": "classification",
+      "description": "Classify the sentiment of sentences from the Rotten Tomatoes dataset"
+    },
+    {
+      "dataset_path": "costa-rica.csv",
+      "target_feature": [
+        "Target"
+      ],
+      "task": "classification",
+      "description": "Can you identify which households have the highest need for social welfare assistance?"
+    },
+    {
+      "dataset_path": "Santander-Customer-Transaction-Prediction.csv",
+      "target_feature": [
+        "target"
+      ],
+      "task": "classification",
+      "description": "Can you identify who will make a transaction?"
+    },
+    {
+      "dataset_path": "Categorical-Feature-Encoding-Challenge-II.csv",
+      "target_feature": [
+        "target"
+      ],
+      "task": "classification",
+      "description": "Binary classification, with every feature a categorical (and interactions!)"
+    },
+    {
+      "dataset_path": "Kobe-Bryant-Shot-Selection.csv",
+      "target_feature": [
+        "shot_made_flag"
+      ],
+      "task": "classification",
+      "description": "Which shots did Kobe sink?"
+    },
+    {
+      "dataset_path": "whats-cooking.csv",
+      "target_feature": [
+        "cuisine"
+      ],
+      "task": "classification",
+      "description": "Use recipe ingredients to categorize the cuisine"
+    },
+    {
+      "dataset_path": "Porto-Seguros-Safe-Driver-Prediction.csv",
+      "target_feature": [
+        "target"
+      ],
+      "task": "classification",
+      "description": "Predict if a driver will file an insurance claim next year."
+    },
+    {
+      "dataset_path": "Sberbank-Russian-Housing-Market.csv",
+      "target_feature": [
+        "price_doc"
+      ],
+      "task": "regression",
+      "description": "Can you predict realty price fluctuations in Russia’s volatile economy?"
+    },
+    {
+      "dataset_path": "Corporacion-Favorita-Grocery-Sales-Forecasting.csv",
+      "target_feature": [
+        "unit_sales"
+      ],
+      "task": "regression",
+      "description": "Can you accurately predict sales for a large grocery chain?"
+    },
+    {
+      "dataset_path": "PUBG-Finish-Placement-Prediction.csv",
+      "target_feature": [
+        "winPlacePerc"
+      ],
+      "task": "regression",
+      "description": "Can you predict the battle royale finish of PUBG Players?"
+    },
+    {
+      "dataset_path": "1111.csv",
+      "target_feature": [
+        "APPETENCY"
+      ],
+      "task": "classification",
+      "description": "The KDD Cup 2009 offers the opportunity to work on large marketing databases from the French Telecom company Orange to predict the propensity of customers to switch provider (churn), buy new products or services (appetency), or buy upgrades or add-ons proposed to them to make the sale more profitable (up-selling)"
+    },
+    {
+      "dataset_path": "DonorsChoose.org-Application-Screening.csv",
+      "target_feature": [
+        "project_is_approved"
+      ],
+      "task": "classification",
+      "description": "Predict whether teachers' project proposals are accepted"
+    },
+    {
+      "dataset_path": "IEEE-CIS-Fraud-Detection.csv",
+      "target_feature": [
+        "isFraud"
+      ],
+      "task": "classification",
+      "description": "Can you detect fraud from customer transactions?"
+    },
+    {
+      "dataset_path": "Microsoft-Malware-Prediction.csv",
+      "target_feature": [
+        "HasDetections"
+      ],
+      "task": "classification",
+      "description": "Can you predict if a machine will soon be hit with malware?"
+    },
+    {
+      "dataset_path": "Quora-Insincere-Questions-Classification.csv",
+      "target_feature": [
+        "target"
+      ],
+      "task": "classification",
+      "description": "Detect toxic content to improve online conversations"
+    },
+    {
+      "dataset_path": "Santander-Value-Prediction-Challenge.csv",
+      "target_feature": [
+        "target"
+      ],
+      "task": "regression",
+      "description": "Predict the value of transactions for potential customers."
+    },
+    {
+      "dataset_path": "Tabular-Playground-Series-Jan2021.csv",
+      "target_feature": [
+        "target"
+      ],
+      "task": "regression",
+      "description": "Practice your ML regression skills on this approachable dataset!"
+    },
+    {
+      "dataset_path": "carolzhangdc_imdb-5000-movie-dataset_movie_metadata.csv",
+      "target_feature": [
+        "imdb_score"
+      ],
+      "task": "regression",
+      "description": ""
+    },
+    {
+      "dataset_path": "pankajjsh06_ibm-watson-marketing-customer-value-data_WA_Fn-UseC_-Marketing-Customer-Value-Analysis.csv",
+      "target_feature": [
+        "Response"
+      ],
+      "task": "classification",
+      "description": "Using Watson Analytics, you can predict behavior to retain your customers"
+    },
+    {
+      "dataset_path": "aakash50897_churn-modellingcsv_Churn_Modelling.csv",
+      "target_feature": [
+        "Exited"
+      ],
+      "task": "classification",
+      "description": "Churn Modelling"
+    },
+    {
+      "dataset_path": "ananthr1_weather-prediction_seattle-weather.csv",
+      "target_feature": [
+        "weather"
+      ],
+      "task": "classification",
+      "description": "Predicting it will Rain or not using some Weather Conditons.."
+    },
+    {
+      "dataset_path": "zaraavagyan_weathercsv_weather.csv",
+      "target_feature": [
+        "RainToday"
+      ],
+      "task": "classification",
+      "description": "weather.csv"
+    },
+    {
+      "dataset_path": "playground-series-s3e24_train.csv",
+      "target_feature": [
+        "smoking"
+      ],
+      "task": "classification",
+      "description": "your task is to use binary classification to predict a patient's smoking status given information about various other health indicators"
+    },
+    {
+      "dataset_path": "benroshan_factors-affecting-campus-placement_Placement_Data_Full_Class.csv",
+      "target_feature": [
+        "salary"
+      ],
+      "task": "regression",
+      "description": "Academic and Employability Factors influencing placement"
+    },
+    {
+      "dataset_path": "dongeorge_beer-consumption-sao-paulo_Consumo_cerveja.csv",
+      "target_feature": [
+        "Consumo de cerveja (litros)"
+      ],
+      "task": "regression",
+      "description": "Predict beer consumption"
+    },
+    {
+      "dataset_path": "sudalairajkumar_indian-startup-funding_startup_funding.csv",
+      "target_feature": [
+        "Amount in USD"
+      ],
+      "task": "regression",
+      "description": "Funding details of the startups in India"
+    },
+    {
+      "dataset_path": "rush4ratio_video-game-sales-with-ratings_Video_Games_Sales_as_at_22_Dec_2016.csv",
+      "target_feature": [
+        "Global_Sales"
+      ],
+      "task": "regression",
+      "description": "Video game sales from Vgchartz and corresponding ratings from Metacritic"
+    },
+    {
+      "dataset_path": "burakhmmtgl_energy-molecule_roboBohr.csv",
+      "target_feature": [
+        "Eat"
+      ],
+      "task": "regression",
+      "description": "Predict molecular properties from a database of atomic level simulations"
+    },
+    {
+      "dataset_path": "ajay1735_hmeq-data_hmeq.csv",
+      "target_feature": [
+        "BAD"
+      ],
+      "task": "classification",
+      "description": "Predict clients who default on their loan"
+    },
+    {
+      "dataset_path": "parulpandey_palmer-archipelago-antarctica-penguin-data_penguins_size.csv",
+      "target_feature": [
+        "species"
+      ],
+      "task": "classification",
+      "description": "Drop in replacement for Iris Dataset"
+    },
+    {
+      "dataset_path": "ronitf_heart-disease-uci_heart.csv",
+      "target_feature": [
+        "target"
+      ],
+      "task": "classification",
+      "description": "Heart Disease Data Set from UCI data repository"
+    },
+    {
+      "dataset_path": "volodymyrgavrysh_heart-disease_heart.csv",
+      "target_feature": [
+        "target"
+      ],
+      "task": "classification",
+      "description": "Heart Disease Data set exploration"
+    },
+    {
+      "dataset_path": "prathamtripathi_drug-classification_drug200.csv",
+      "target_feature": [
+        "Drug"
+      ],
+      "task": "classification",
+      "description": "This database contains information about certain drug types."
+    },
+    {
+      "dataset_path": "mysarahmadbhat_lung-cancer_surveylungcancer.csv",
+      "target_feature": [
+        "LUNG_CANCER"
+      ],
+      "task": "classification",
+      "description": "Does Smoking cause Lung Cancer."
+    },
+    {
+      "dataset_path": "bricevergnou_spotify-recommendation_data.csv",
+      "target_feature": [
+        "liked"
+      ],
+      "task": "classification",
+      "description": "200 songs and their statistics"
+    },
+    {
+      "dataset_path": "harrimansaragih_dummy-advertising-and-sales-data_DummyDataHSS.csv",
+      "target_feature": [
+        "Sales"
+      ],
+      "task": "regression",
+      "description": "Data of TV, Influencer, Radio, and Social Media Ads budget to predict Sales"
+    },
+    {
+      "dataset_path": "dipam7_student-grade-prediction_student-mat.csv",
+      "target_feature": [
+        "G3"
+      ],
+      "task": "regression",
+      "description": "Predict the final grade of Portugese high school students"
+    },
+    {
+      "dataset_path": "playground-series-s3e25_train.csv",
+      "target_feature": [
+        "Hardness"
+      ],
+      "task": "regression",
+      "description": "your task is to use regression to predict the Mohs hardness of a mineral, given its properties"
+    },
+    {
+      "dataset_path": "edumagalhaes_quality-prediction-in-a-mining-process_MiningProcess_Flotation_Plant_Database.csv",
+      "target_feature": [
+        "% Silica Concentrate"
+      ],
+      "task": "regression",
+      "description": "Explore real industrial data and help manufacturing plants to be more efficient"
+    },
+    {
+      "dataset_path": "paresh2047_uci-semcom_uci-secom.csv",
+      "target_feature": [
+        "Pass/Fail"
+      ],
+      "task": "classification",
+      "description": "Semiconductor manufacturing process dataset"
+    },
+    {
+      "dataset_path": "mansoordaku_ckdisease_kidney_disease.csv",
+      "target_feature": [
+        "classification"
+      ],
+      "task": "classification",
+      "description": "Data has 25 feattures which may predict a patient with chronic kidney disease"
+    },
+    {
+      "dataset_path": "shayannaveed_credit-card-fraud-detection_creditcard.csv",
+      "target_feature": [
+        "Class"
+      ],
+      "task": "classification",
+      "description": "Anonymized credit card transactions labeled as fraudulent or genuine"
+    },
+    {
+      "dataset_path": "otto-group-product-classification-challenge_train.csv",
+      "target_feature": [
+        "target"
+      ],
+      "task": "classification",
+      "description": "Classify products into the correct category"
+    },
+    {
+      "dataset_path": "andrewmvd_udemy-courses_udemy_courses.csv",
+      "target_feature": [
+        "num_subscribers"
+      ],
+      "task": "regression",
+      "description": "3.682 courses listings from 4 different subjects"
+    },
+    {
+      "dataset_path": "jessemostipak_hotel-booking-demand_hotel_bookings.csv",
+      "target_feature": [
+        "is_canceled"
+      ],
+      "task": "classification",
+      "description": "From the paper: hotel booking demand datasets"
+    },
+    {
+      "dataset_path": "muhakabartay_sloan-digital-sky-survey-dr16_Skyserver_12_30_20194_49_58PM.csv",
+      "target_feature": [
+        "class"
+      ],
+      "task": "classification",
+      "description": "Sloan Digital Sky Survey DR16 Server Data with Galaxies, Stars and Quasars"
+    },
+    {
+      "dataset_path": "karthickveerakumar_spam-filter_emails.csv",
+      "target_feature": [
+        "spam"
+      ],
+      "task": "classification",
+      "description": "CSV file containing spam/not spam information about 5172 emails."
+    },
+    {
+      "dataset_path": "mathchi_hitters-baseball-data_Hitters.csv",
+      "target_feature": [
+        "Salary"
+      ],
+      "task": "regression",
+      "description": "Major League Baseball Data from the 1986 and 1987 seasons."
+    },
+    {
+      "dataset_path": "sakshigoyal7_credit-card-customers_BankChurners.csv",
+      "target_feature": [
+        "Attrition_Flag"
+      ],
+      "task": "classification",
+      "description": "Predict Churning customers"
+    },
+    {
+      "dataset_path": "dgomonov_new-york-city-airbnb-open-data_AB_NYC_2019.csv",
+      "target_feature": [
+        "price"
+      ],
+      "task": "regression",
+      "description": "Airbnb listings and metrics in NYC, NY, USA (2019)"
+    },
+    {
+      "dataset_path": "see-click-predict-fix_train.csv",
+      "target_feature": [
+        "num_votes",
+        "num_comments",
+        "num_views"
+      ],
+      "task": "regression",
+      "description": "Predict which 311 issues are most important to citizens"
+    },
+    {
+      "dataset_path": "playground-series-s3e11_train.csv",
+      "target_feature": [
+        "cost"
+      ],
+      "task": "regression",
+      "description": "you must predict the value for the target cost"
+    },
+    {
+      "dataset_path": "roshansharma_online-shoppers-intention_online_shoppers_intention.csv",
+      "target_feature": [
+        "Revenue"
+      ],
+      "task": "classification",
+      "description": "Online Shopper Intention Dataset from UCI's Machine Learning Library"
+    },
+    {
+      "dataset_path": "nicapotato_womens-ecommerce-clothing-reviews_WomensClothingE-CommerceReviews.csv",
+      "target_feature": [
+        "Recommended IND"
+      ],
+      "task": "classification",
+      "description": "23,000 Customer Reviews and Ratings"
+    },
+    {
+      "dataset_path": "ishandutta_early-stage-diabetes-risk-prediction-dataset_diabetes_data_upload.csv",
+      "target_feature": [
+        "class"
+      ],
+      "task": "classification",
+      "description": "Sign and Symptom Data of Newly Diabetic or would be Diabetic Patient"
+    },
+    {
+      "dataset_path": "divyansh22_us-border-crossing-data_Border_Crossing_Entry_Data.csv",
+      "target_feature": [
+        "Value"
+      ],
+      "task": "regression",
+      "description": "Inbound US border crossing entries"
+    },
+    {
+      "dataset_path": "johnsmith88_heart-disease-dataset_heart.csv",
+      "target_feature": [
+        "target"
+      ],
+      "task": "classification",
+      "description": "Public Health Dataset"
+    },
+    {
+      "dataset_path": "mruanova_us-gasoline-and-diesel-retail-prices-19952021_PET_PRI_GND_DCUS_NUS_W.csv",
+      "target_feature": [
+        "D1"
+      ],
+      "task": "regression",
+      "description": "Weekly Retail Gasoline and Diesel Prices"
+    },
+    {
+      "dataset_path": "swanirvahan-hack-for-climate-20-ict-ioc_train.csv",
+      "target_feature": [
+        "Strength"
+      ],
+      "task": "regression",
+      "description": "Help Chemical Engineers make a strong cement for sustainable applications."
+    },
+    {
+      "dataset_path": "jsphyg_weather-dataset-rattle-package_weatherAUS.csv",
+      "target_feature": [
+        "RainTomorrow"
+      ],
+      "task": "classification",
+      "description": "Predict next-day rain in Australia"
+    },
+    {
+      "dataset_path": "jojoker_singapore-airbnb_listings.csv",
+      "target_feature": [
+        "price"
+      ],
+      "task": "regression",
+      "description": "Can you find out how many feature that affected the price?"
+    },
+    {
+      "dataset_path": "saurabh00007_iriscsv_Iris.csv",
+      "target_feature": [
+        "Species"
+      ],
+      "task": "classification",
+      "description": "iris.csv"
+    },
+    {
+      "dataset_path": "christianlillelund_passenger-list-for-the-estonia-ferry-disaster_estonia-passenger-list.csv",
+      "target_feature": [
+        "Survived"
+      ],
+      "task": "classification",
+      "description": "The full list of all passengers and crew members aboard the MS Estonia."
+    },
+    {
+      "dataset_path": "mdabbert_ultimate-ufc-dataset_ufc-master.csv",
+      "target_feature": [
+        "Winner"
+      ],
+      "task": "classification",
+      "description": "Merging All Kaggle Public UFC Datasets"
+    },
+    {
+      "dataset_path": "steveahn_memory-test-on-drugged-islanders-data_Islander_data.csv",
+      "target_feature": [
+        "Happy_Sad_group"
+      ],
+      "task": "classification",
+      "description": "Anti-Anxiety Medicine on Novel Islanders grouped by Happy or Sad Memory Priming"
+    },
+    {
+      "dataset_path": "predict-closed-questions-on-stack-overflow_train.csv",
+      "target_feature": [
+        "OpenStatus"
+      ],
+      "task": "classification",
+      "description": "Predict which new questions asked on Stack Overflow will be closed"
+    },
+    {
+      "dataset_path": "mirichoi0218_insurance_insurance.csv",
+      "target_feature": [
+        "charges"
+      ],
+      "task": "regression",
+      "description": "Insurance Forecast by using Linear Regression"
+    },
+    {
+      "dataset_path": "datamunge_sign-language-mnist_sign_mnist_train.csv",
+      "target_feature": [
+        "label"
+      ],
+      "task": "classification",
+      "description": "Drop-In Replacement for MNIST for Hand Gesture Recognition Tasks"
+    },
+    {
+      "dataset_path": "uciml_mushroom-classification_mushrooms.csv",
+      "target_feature": [
+        "class"
+      ],
+      "task": "classification",
+      "description": "Safe to eat or deadly poison?"
+    },
+    {
+      "dataset_path": "shrutimechlearn_churn-modelling_Churn_Modelling.csv",
+      "target_feature": [
+        "Exited"
+      ],
+      "task": "classification",
+      "description": "Churn Modelling"
+    },
+    {
+      "dataset_path": "maajdl_yeh-concret-data_Concrete_Data_Yeh.csv",
+      "target_feature": [
+        "csMPa"
+      ],
+      "task": "regression",
+      "description": "Predictions sensitivity to the training set (1030 concretes samples)"
+    },
+    {
+      "dataset_path": "jemishdonda_headbrain_headbrain.csv",
+      "target_feature": [
+        "Brain Weight(grams)"
+      ],
+      "task": "regression",
+      "description": "headbrain.csv"
+    },
+    {
+      "dataset_path": "smid80_weatherww2_SummaryofWeather.csv",
+      "target_feature": [
+        "MaxTemp"
+      ],
+      "task": "regression",
+      "description": "Daily Weather Summaries from 1940-1945"
+    },
+    {
+      "dataset_path": "brendan45774_test-file_tested.csv",
+      "target_feature": [
+        "Survived"
+      ],
+      "task": "classification",
+      "description": "Titanic dataset"
+    },
+    {
+      "dataset_path": "playground-series-s3e20_train.csv",
+      "target_feature": [
+        "emission"
+      ],
+      "task": "regression",
+      "description": "The objective of this challenge is to create machine learning models that use open-source emissions data (from Sentinel-5P satellite observations) to predict carbon emissions"
+    },
+    {
+      "dataset_path": "ruslankl_mice-protein-expression_Data_Cortex_Nuclear.csv",
+      "target_feature": [
+        "class"
+      ],
+      "task": "classification",
+      "description": "Expression levels of 77 proteins measured in the cerebral cortex"
+    },
+    {
+      "dataset_path": "alexteboul_heart-disease-health-indicators-dataset_heart_disease_health_indicators_BRFSS2015.csv",
+      "target_feature": [
+        "HeartDiseaseorAttack"
+      ],
+      "task": "classification",
+      "description": "253,680 survey responses from cleaned BRFSS 2015 - binary classification"
+    },
+    {
+      "dataset_path": "altavish_boston-housing-dataset_HousingData.csv",
+      "target_feature": [
+        "MEDV"
+      ],
+      "task": "regression",
+      "description": "Boston housing dataset"
+    },
+    {
+      "dataset_path": "kartik2112_fraud-detection_fraudTrain.csv",
+      "target_feature": [
+        "is_fraud"
+      ],
+      "task": "classification",
+      "Simulated Credit Card Transactions generated using Sparkov": "Simulated Credit Card Transactions generated using Sparkov"
+    },
+    {
+      "dataset_path": "arashnic_hr-analytics-job-change-of-data-scientists_aug_train.csv",
+      "target_feature": [
+        "target"
+      ],
+      "task": "classification",
+      "description": "Predict who will move to a new job"
+    },
+    {
+      "dataset_path": "jealousleopard_goodreadsbooks_books.csv",
+      "target_feature": [
+        "average_rating"
+      ],
+      "task": "regression",
+      "description": "comprehensive list of books listed in goodreads"
+    },
+    {
+      "dataset_path": "neuromusic_avocado-prices_avocado.csv",
+      "target_feature": [
+        "AveragePrice"
+      ],
+      "task": "regression",
+      "description": "Historical data on avocado prices and sales volume in multiple US markets"
+    },
+    {
+      "dataset_path": "neiljs_all-shark-tank-us-pitches-deals_Sharktankpitchesdeals.csv",
+      "target_feature": [
+        "Deal_Status"
+      ],
+      "task": "classification",
+      "description": "Can you predict if a company/product pitch would succeed in Shark tank?"
+    },
+    {
+      "dataset_path": "shivamb_real-or-fake-fake-jobposting-prediction_fake_job_postings.csv",
+      "target_feature": [
+        "fraudulent"
+      ],
+      "task": "classification",
+      "description": "Dataset of real and fake job postings"
+    },
+    {
+      "dataset_path": "joshmcadams_oranges-vs-grapefruit_citrus.csv",
+      "target_feature": [
+        "name"
+      ],
+      "task": "classification",
+      "description": "Orange and grapefruit diameter, weight, and color data."
+    },
+    {
+      "dataset_path": "playground-series-s3e23_train.csv",
+      "target_feature": [
+        "defects"
+      ],
+      "task": "classification",
+      "description": "Predict defects in C programs given various various attributes about the code."
+    },
+    {
+      "dataset_path": "debajyotipodder_co2-emission-by-vehicles_CO2Emissions_Canada.csv",
+      "target_feature": [
+        "CO2 Emissions(g/km)"
+      ],
+      "task": "regression",
+      "description": "Amount of CO2 emissions by a vehicle depending on their various features."
+    },
+    {
+      "dataset_path": "maitree_wine-quality-selection_winequality-red.csv",
+      "target_feature": [
+        "quality"
+      ],
+      "task": "classification",
+      "description": "Wine Quality Prediction - Classification Prediction"
+    },
+    {
+      "dataset_path": "harinir_petrol-consumption_petrol_consumption.csv",
+      "target_feature": [
+        "Petrol_Consumption"
+      ],
+      "task": "regression",
+      "description": "petrol consumption"
+    },
+    {
+      "dataset_path": "new-york-city_nyc-property-sales_nyc-rolling-sales.csv",
+      "target_feature": [
+        "SALE PRICE"
+      ],
+      "task": "regression",
+      "description": "A year's worth of properties sold on the NYC real estate market"
+    },
+    {
+      "dataset_path": "nfl-big-data-bowl-2020_train.csv",
+      "target_feature": [
+        "Yards"
+      ],
+      "task": "regression",
+      "description": "How many yards will an NFL player gain after receiving a handoff?"
+    },
+    {
+      "dataset_path": "aljarah_xAPI-Edu-Data_xAPI-Edu-Data.csv",
+      "target_feature": [
+        "Class"
+      ],
+      "task": "classification",
+      "description": "xAPI-Educational Mining Dataset"
+    },
+    {
+      "dataset_path": "kumarajarshi_life-expectancy-who_LifeExpectancyData.csv",
+      "target_feature": [
+        "Status"
+      ],
+      "task": "classification",
+      "description": "Statistical Analysis on factors influencing Life Expectancy"
+    },
+    {
+      "dataset_path": "ninzaami_loan-predication_train_u6lujuX_CVtuZ9i(1).csv",
+      "target_feature": [
+        "Loan_Status"
+      ],
+      "task": "classification",
+      "description": "Loan_Predication problem"
+    },
+    {
+      "dataset_path": "vishnusraghavan_the-interview-attendance-problem_Interview.csv",
+      "target_feature": [
+        "Observed Attendance"
+      ],
+      "task": "regression",
+      "description": "Predict which candidates will attend the intervew"
+    },
+    {
+      "dataset_path": "wenruliu_adult-income-dataset_adult.csv",
+      "target_feature": [
+        "income"
+      ],
+      "task": "classification",
+      "description": "An individual’s annual income results from various factors. Intuitively, it is influenced by the individual’s education level, age, gender, occupation, and etc."
+    },
+    {
+      "dataset_path": "barelydedicated_bank-customer-churn-modeling_Churn_Modelling.csv",
+      "target_feature": [
+        "Exited"
+      ],
+      "task": "classification",
+      "description": "Can you predict if bank customers will turnover next cycle?"
+    },
+    {
+      "dataset_path": "brandao_diabetes_diabetic_data.csv",
+      "target_feature": [
+        "readmitted"
+      ],
+      "task": "classification",
+      "description": "It is important to know if a patient will be readmitted in some hospital"
+    },
+    {
+      "dataset_path": "teertha_ushealthinsurancedataset_insurance.csv",
+      "target_feature": [
+        "charges"
+      ],
+      "task": "regression",
+      "description": "Insurance Premium Charges in US with important details for risk underwriting."
+    },
+    {
+      "dataset_path": "gauravduttakiit_loan-defaulter_application_data.csv",
+      "target_feature": [
+        "TARGET"
+      ],
+      "task": "classification",
+      "description": "EDA in a real business scenario"
+    },
+    {
+      "dataset_path": "apartment-prices-in-the-czech-republic_train.csv",
+      "target_feature": [
+        "price"
+      ],
+      "task": "regression",
+      "description": "Your goal is to predict price of apartments in Czech Republic. Use advanced regression models to solve this problem."
+    },
+    {
+      "dataset_path": "schirmerchad_bostonhoustingmlnd_housing.csv",
+      "target_feature": [
+        "MEDV"
+      ],
+      "task": "regression",
+      "description": "Concerns housing values in suburbs of Boston"
+    },
+    {
+      "dataset_path": "dragonheir_logistic-regression_Social_Network_Ads.csv",
+      "target_feature": [
+        "Purchased"
+      ],
+      "task": "classification",
+      "description": "This project will be a walkthrough of a simple Logistic Regression model in an attempt to strategize a basic ad-targeting campaign for a social media network/website"
+    },
+    {
+      "dataset_path": "dansbecker_home-data-for-ml-course_train.csv",
+      "target_feature": [
+        "SalePrice"
+      ],
+      "task": "regression",
+      "description": "Data for Learn ML Course. Same as the Housing Price Getting Started Competition"
+    },
+    {
+      "dataset_path": "ventilator-pressure-prediction_train.csv",
+      "target_feature": [
+        "pressure"
+      ],
+      "task": "regression",
+      "description": "Simulate a ventilator connected to a sedated patient's lung"
+    },
+    {
+      "dataset_path": "crawford_80-cereals_cereal.csv",
+      "target_feature": [
+        "rating"
+      ],
+      "task": "regression",
+      "description": "Nutrition data on 80 cereal products"
+    },
+    {
+      "dataset_path": "mustafaali96_weight-height_weight-height.csv",
+      "target_feature": [
+        "Height"
+      ],
+      "task": "regression",
+      "description": "weights and heights."
+    },
+    {
+      "dataset_path": "sammy123_lower-back-pain-symptoms-dataset_Dataset_spine.csv",
+      "target_feature": [
+        "Class_att"
+      ],
+      "task": "classification",
+      "description": "This data set is about to identify a person is abnormal or normal using collected physical spine details/data."
+    },
+    {
+      "dataset_path": "unanimad_dataisbeautiful_r_dataisbeautiful_posts.csv",
+      "target_feature": [
+        "over_18"
+      ],
+      "task": "classification",
+      "description": "Posts of Data is Beautiful, a Reddit community."
+    },
+    {
+      "dataset_path": "rtatman_us-candy-production-by-month_candy_production.csv",
+      "target_feature": [
+        "IPG3113N"
+      ],
+      "task": "regression",
+      "description": "From January 1972 to August 2017"
+    },
+    {
+      "dataset_path": "hakabuk_gun-deaths-in-the-us_guns.csv",
+      "target_feature": [
+        "intent"
+      ],
+      "task": "classification",
+      "description": "Information about gun-deaths from the CDC: Ages, gender, intent and more"
+    },
+    {
+      "dataset_path": "koki25ando_22000-scotch-whisky-reviews_scotch_review.csv",
+      "target_feature": [
+        "category"
+      ],
+      "task": "classification",
+      "description": "Dataset Includes 2,2k+ Scotch Whisky Reviews"
+    },
+    {
+      "dataset_path": "bnp-paribas-cardif-claims-management_train.csv",
+      "target_feature": [
+        "target"
+      ],
+      "task": "classification",
+      "description": "Can you accelerate BNP Paribas Cardif's claims management process?"
+    },
+    {
+      "dataset_path": "yasserh_wine-quality-dataset_WineQT.csv",
+      "target_feature": [
+        "quality"
+      ],
+      "task": "classification",
+      "description": "Wine Quality Prediction - Classification Prediction"
+    },
+    {
+      "dataset_path": "kabure_german-credit-data-with-risk_german_credit_data.csv",
+      "target_feature": [
+        "Risk"
+      ],
+      "task": "classification",
+      "description": "It's a classic dataset of Good and Bad Loans"
+    },
+    {
+      "dataset_path": "dronio_SolarEnergy_SolarPrediction.csv",
+      "target_feature": [
+        "Radiation"
+      ],
+      "task": "regression",
+      "description": "It contains measurements for the past 4 months and you have to predict the level of solar radiation."
+    },
+    {
+      "dataset_path": "tejashvi14_travel-insurance-prediction-data_TravelInsurancePrediction.csv",
+      "target_feature": [
+        "TravelInsurance"
+      ],
+      "task": "classification",
+      "description": "Predict Whether A Customer Will Be Interested In Buying Travel Insurance"
+    },
+    {
+      "dataset_path": "toramky_automobile-dataset_Automobile_data.csv",
+      "target_feature": [
+        "price"
+      ],
+      "task": "regression",
+      "description": "Dataset consist of various characteristic of an auto"
+    },
+    {
+      "dataset_path": "shubh0799_churn-modelling_Churn_Modelling.csv",
+      "target_feature": [
+        "Exited"
+      ],
+      "task": "classification",
+      "description": "Churn Modelling"
+    },
+    {
+      "dataset_path": "martj42_international-football-results-from-1872-to-2017_results.csv",
+      "target_feature": [
+        "neutral"
+      ],
+      "task": "classification",
+      "description": "An up-to-date dataset of over 40,000 international football results"
+    },
+    {
+      "dataset_path": "deepankurk_flight-take-off-data-jfk-airport_M1_final.csv",
+      "target_feature": [
+        "TAXI_OUT"
+      ],
+      "task": "regression",
+      "description": "This data contains flight details taking off from JFK airport."
+    },
+    {
+      "dataset_path": "paytonfisher_sp-500-companies-with-financial-information_financials.csv",
+      "target_feature": [
+        "Price"
+      ],
+      "task": "regression",
+      "description": "A Dataset with Key Stock Market Information"
+    },
+    {
+      "dataset_path": "adityakadiwal_water-potability_water_potability.csv",
+      "target_feature": [
+        "Potability"
+      ],
+      "task": "classification",
+      "description": "Drinking water potability"
+    },
+    {
+      "dataset_path": "itachi9604_disease-symptom-description-dataset_dataset.csv",
+      "target_feature": [
+        "Disease"
+      ],
+      "task": "classification",
+      "description": "helps to create a disease prediction or healthcare system"
+    },
+    {
+      "dataset_path": "kevinarvai_clinvar-conflicting_clinvar_conflicting.csv",
+      "target_feature": [
+        "CLASS"
+      ],
+      "task": "classification",
+      "description": "Predict whether a variant will have conflicting clinical classifications."
+    },
+    {
+      "dataset_path": "artimule_drinking-water-probability_drinking_water_potability.csv",
+      "target_feature": [
+        "Potability"
+      ],
+      "task": "classification",
+      "description": "Safe Drinking water to health purpose."
+    },
+    {
+      "dataset_path": "gauravduttakiit_resume-dataset_UpdatedResumeDataSet.csv",
+      "target_feature": [
+        "Category"
+      ],
+      "task": "classification",
+      "description": "Typically, large companies do not have enough time to open each CV, so they use machine learning algorithms for the Resume Screening task."
+    },
+    {
+      "dataset_path": "datasnaek_league-of-legends_games.csv",
+      "target_feature": [
+        "winner"
+      ],
+      "task": "classification",
+      "description": "Details from over 50,000 ranked games of LoL"
+    },
+    {
+      "dataset_path": "itssuru_loan-data_loan_data.csv",
+      "target_feature": [
+        "not.fully.paid"
+      ],
+      "task": "classification",
+      "description": "classify and predict whether or not the borrower paid back their loan in full."
+    },
+    {
+      "dataset_path": "jacklizhi_creditcard_creditcard.csv",
+      "target_feature": [
+        "Class"
+      ],
+      "task": "classification",
+      "description": "how to manage the unbalance dataset"
+    },
+    {
+      "dataset_path": "andrewmvd_heart-failure-clinical-data_heart_failure_clinical_records_dataset.csv",
+      "target_feature": [
+        "DEATH_EVENT"
+      ],
+      "task": "classification",
+      "description": "12 clinical features por predicting death events."
+    },
+    {
+      "dataset_path": "tristan581_17k-apple-app-store-strategy-games_appstore_games.csv",
+      "target_feature": [
+        "Average User Rating"
+      ],
+      "task": "regression",
+      "description": "You could use the number of ratings as a proxy indicator for the overall success of a game, and then work out what factors make a successful game"
+    },
+    {
+      "dataset_path": "hesh97_titanicdataset-traincsv_train.csv",
+      "target_feature": [
+        "Survived"
+      ],
+      "task": "classification",
+      "description": "Predict survival on the Titanic and get familiar with ML basics"
+    },
+    {
+      "dataset_path": "khsamaha_aviation-accident-database-synopses_AviationData.csv",
+      "target_feature": [
+        "Total.Fatal.Injuries"
+      ],
+      "task": "regression",
+      "description": "The NTSB aviation accident dataset up to Feb 2021"
+    },
+    {
+      "dataset_path": "sazid28_advertising.csv_Advertising.csv",
+      "target_feature": [
+        "sales"
+      ],
+      "task": "regression",
+      "description": "It is data set for linear regrssion"
+    },
+    {
+      "dataset_path": "tejashvi14_engineering-placements-prediction_collegePlace.csv",
+      "target_feature": [
+        "PlacedOrNot"
+      ],
+      "task": "classification",
+      "description": "Predict Final Year Engineering College Placements"
+    },
+    {
+      "dataset_path": "volodymyrgavrysh_fraud-detection-bank-dataset-20k-records-binary_fraud_detection_bank_dataset.csv",
+      "target_feature": [
+        "targets"
+      ],
+      "task": "classification",
+      "description": "20k records of customer transactions with 112 features"
+    },
+    {
+      "dataset_path": "kamilpytlak_personal-key-indicators-of-heart-disease_heart_2020_cleaned.csv",
+      "target_feature": [
+        "HeartDisease"
+      ],
+      "task": "classification",
+      "description": "2022 annual CDC survey data of 400k+ adults related to their health status"
+    },
+    {
+      "dataset_path": "kamrankausar_iris-data_Iris.csv",
+      "target_feature": [
+        "Species"
+      ],
+      "task": "classification",
+      "description": "Classify iris plants into three species in this classic dataset"
+    },
+    {
+      "dataset_path": "faizunnabi_autism-screening_Autism_Data.csv",
+      "target_feature": [
+        "Class/ASD"
+      ],
+      "task": "classification",
+      "description": "Classifying autistic patients based upon the screening results."
+    },
+    {
+      "dataset_path": "harlfoxem_housesalesprediction_kc_house_data.csv",
+      "target_feature": [
+        "price"
+      ],
+      "task": "regression",
+      "description": "Predict house price using regression"
+    },
+    {
+      "dataset_path": "shubhambathwal_flight-price-prediction_Clean_Dataset.csv",
+      "target_feature": [
+        "price"
+      ],
+      "task": "regression",
+      "description": "Predict Fllight Price, practise feature engineering, implement ensemble models"
+    },
+    {
+      "dataset_path": "patelprashant_employee-attrition_WA_Fn-UseC_-HR-Employee-Attrition.csv",
+      "target_feature": [
+        "Attrition"
+      ],
+      "task": "classification",
+      "description": "Fictional dataset on HR Employee attrition and performance"
+    },
+    {
+      "dataset_path": "birdy654_eeg-brainwave-dataset-feeling-emotions_emotions.csv",
+      "target_feature": [
+        "label"
+      ],
+      "task": "classification",
+      "description": "Positive and Negative emotional experiences captured from the brain"
+    },
+    {
+      "dataset_path": "willkoehrsen_home-credit-manual-engineered-features_train_bureau_raw.csv",
+      "target_feature": [
+        "TARGET"
+      ],
+      "task": "classification",
+      "description": "Can you predict how capable each applicant is of repaying a loan?"
+    },
+    {
+      "dataset_path": "brsdincer_star-type-classification_Stars.csv",
+      "target_feature": [
+        "Type"
+      ],
+      "task": "classification",
+      "description": "For Type Prediction & Classification"
+    },
+    {
+      "dataset_path": "gregorut_videogamesales_vgsales.csv",
+      "target_feature": [
+        "Genre"
+      ],
+      "task": "classification",
+      "description": "Analyze sales data from more than 16,500 games."
+    },
+    {
+      "dataset_path": "icr-identify-age-related-conditions_train.csv",
+      "target_feature": [
+        "Class"
+      ],
+      "task": "classification",
+      "description": "Use Machine Learning to detect conditions with measurements of anonymous characteristics"
+    },
+    {
+      "dataset_path": "jmmvutu_summer-products-and-sales-in-ecommerce-wish_summer-products-with-rating-and-performance_2020-08.csv",
+      "target_feature": [
+        "units_sold"
+      ],
+      "task": "regression",
+      "description": "Top products with ratings and sales performance, unlike many other datasets"
+    },
+    {
+      "dataset_path": "yersever_500-person-gender-height-weight-bodymassindex_500_Person_Gender_Height_Weight_Index.csv",
+      "target_feature": [
+        "Index"
+      ],
+      "task": "classification",
+      "description": "Height and Weight random generated, Body Mass Index Calculated"
+    },
+    {
+      "dataset_path": "thomasnibb_amsterdam-house-price-prediction_HousingPrices-Amsterdam-August-2021.csv",
+      "target_feature": [
+        "Price"
+      ],
+      "task": "regression",
+      "description": "Predict Sales Prices and Practice Feature Engineering"
+    },
+    {
+      "dataset_path": "crawford_1000-cameras-dataset_camera_dataset.csv",
+      "target_feature": [
+        "Max resolution"
+      ],
+      "task": "regression",
+      "description": "Data describing 1000 cameras in 13 properties"
+    },
+    {
+      "dataset_path": "bobbyscience_league-of-legends-diamond-ranked-games-10-min_high_diamond_ranked_10min.csv",
+      "target_feature": [
+        "blueWins"
+      ],
+      "task": "classification",
+      "description": "Classify LoL ranked games outcome by looking at the first 10min worth of data"
+    },
+    {
+      "dataset_path": "vedavyasv_usa-housing_USA_Housing.csv",
+      "target_feature": [
+        "Price"
+      ],
+      "task": "regression",
+      "description": "House Sales Price Predictions"
+    },
+    {
+      "dataset_path": "tedllh_titanic-train_titanic_train.csv",
+      "target_feature": [
+        "Survived"
+      ],
+      "task": "regression",
+      "description": "Titanic dataset"
+    },
+    {
+      "dataset_path": "austinreese_craigslist-carstrucks-data_vehicles.csv",
+      "target_feature": [
+        "price"
+      ],
+      "task": "regression",
+      "description": "Vehicles listings from Craigslist.org"
+    },
+    {
+      "dataset_path": "zhijinzhai_loandata_Loanpaymentsdata.csv",
+      "target_feature": [
+        "loan_status"
+      ],
+      "task": "classification",
+      "description": "This dataset includes customers who have paid off their loans or not"
+    },
+    {
+      "dataset_path": "amitabhajoy_bengaluru-house-price-data_Bengaluru_House_Data.csv",
+      "target_feature": [
+        "price"
+      ],
+      "task": "regression",
+      "description": "Bengaluru House price data"
+    },
+    {
+      "dataset_path": "yasserh_student-marks-dataset_Student_Marks.csv",
+      "target_feature": [
+        "Marks"
+      ],
+      "task": "regression",
+      "description": "Student Marks Prediction - Regression Problem"
+    },
+    {
+      "dataset_path": "aungpyaeap_fish-market_Fish.csv",
+      "target_feature": [
+        "Species"
+      ],
+      "task": "classification",
+      "description": "create a machine learning model to predict the weight of the fish based on the body measurement data of seven types of fish species"
+    },
+    {
+      "dataset_path": "playground-series-s3e17_train.csv",
+      "target_feature": [
+        "Machine failure"
+      ],
+      "task": "classification",
+      "description": "your objective is to predict the probability of Machine failure"
+    },
+    {
+      "dataset_path": "arshid_iris-flower-dataset_IRIS.csv",
+      "target_feature": [
+        "species"
+      ],
+      "task": "classification",
+      "description": "Iris flower data set used for multi-class classification."
+    },
+    {
+      "dataset_path": "szamil_who-suicide-statistics_who_suicide_statistics.csv",
+      "target_feature": [
+        "suicides_no"
+      ],
+      "task": "regression",
+      "description": "Basic historical (1979-2016) data by country, year and demographic groups"
+    },
+    {
+      "dataset_path": "abbasit_kyphosis-dataset_kyphosis.csv",
+      "target_feature": [
+        "Kyphosis"
+      ],
+      "task": "classification",
+      "description": "Kyphosis Dataset"
+    },
+    {
+      "dataset_path": "merishnasuwal_breast-cancer-prediction-dataset_Breast_cancer_data.csv",
+      "target_feature": [
+        "diagnosis"
+      ],
+      "task": "classification",
+      "description": "the doctor will conduct a diagnosis to determine whether it is cancerous and, if so, whether it has spread to other parts of the body."
+    },
+    {
+      "dataset_path": "janiobachmann_bank-marketing-dataset_bank.csv",
+      "target_feature": [
+        "deposit"
+      ],
+      "task": "classification",
+      "description": "Predicting Term Deposit Suscriptions"
+    },
+    {
+      "dataset_path": "futurecorporation_epitope-prediction_input_bcell.csv",
+      "target_feature": [
+        "target"
+      ],
+      "task": "classification",
+      "description": "A simple dataset for epitope prediction used in vaccine development"
+    },
+    {
+      "dataset_path": "carlolepelaars_toy-dataset_toy_dataset.csv",
+      "target_feature": [
+        "Illness"
+      ],
+      "task": "classification",
+      "description": "A fictional dataset for exploratory data analysis (EDA) and to test simple prediction models."
+    },
+    {
+      "dataset_path": "sootersaalu_amazon-top-50-bestselling-books-2009-2019_bestsellerswithcategories.csv",
+      "target_feature": [
+        "User Rating"
+      ],
+      "task": "regression",
+      "description": "Dataset on Amazon's Top 50 bestselling books from 2009 to 2019. Contains 550 books, data has been categorized into fiction and non-fiction using Goodreads"
+    },
+    {
+      "dataset_path": "piyushgoyal443_red-wine-dataset_wineQualityReds.csv",
+      "target_feature": [
+        "quality"
+      ],
+      "task": "classification",
+      "description": "This is a subset of wine quality dataset which contains only red wine samples"
+    },
+    {
+      "dataset_path": "hb20007_gender-classification_TransformedDataSet-Sheet1.csv",
+      "target_feature": [
+        "Gender"
+      ],
+      "task": "classification",
+      "description": "Classifying gender based on personal preferences"
+    },
+    {
+      "dataset_path": "spscientist_students-performance-in-exams_StudentsPerformance.csv",
+      "target_feature": [
+        "writing score"
+      ],
+      "task": "regression",
+      "description": "Marks secured by the students in various subjects"
+    },
+    {
+      "dataset_path": "kritikseth_us-airbnb-open-data_AB_US_2020.csv",
+      "target_feature": [
+        "price"
+      ],
+      "task": "regression",
+      "description": "Airbnb listings and metrics of regions in the U.S."
+    },
+    {
+      "dataset_path": "annetxu_health-insurance-cost-prediction_insurance.csv",
+      "target_feature": [
+        "charges"
+      ],
+      "task": "regression",
+      "description": "Insurance Forecast by using Linear Regression"
+    },
+    {
+      "dataset_path": "barelydedicated_bank-customer-churn-modeling_Churn_Modelling.csv",
+      "target_feature": [
+        "Exited"
+      ],
+      "task": "classification",
+      "description": "Churn Modelling"
+    },
+    {
+      "dataset_path": "yufengdev_bbc-fulltext-and-category_bbc-text.csv",
+      "target_feature": [
+        "category"
+      ],
+      "task": "classification",
+      "description": "Title, body, and category of over 2 thousand BBC full text articles."
+    },
+    {
+      "dataset_path": "elakiricoder_gender-classification-dataset_gender_classification_v7.csv",
+      "target_feature": [
+        "gender"
+      ],
+      "task": "classification",
+      "description": "Male Female image dataset"
+    },
+    {
+      "dataset_path": "godaddy-microbusiness-density-forecasting_train.csv",
+      "target_feature": [
+        "microbusiness_density"
+      ],
+      "task": "regression",
+      "description": "Forecast Next Month’s Microbusiness Density"
+    },
+    {
+      "dataset_path": "sachinsharma1123_room-occupancy_file.csv",
+      "target_feature": [
+        "Occupancy"
+      ],
+      "task": "classification",
+      "description": "Predicting the room occupancy"
+    },
+    {
+      "dataset_path": "gagandeep16_car-sales_Car_sales.csv",
+      "target_feature": [
+        "Price_in_thousands"
+      ],
+      "task": "regression",
+      "description": "This is the Car sales data set which include information about different cars"
+    },
+    {
+      "dataset_path": "gopalchettri_advertisement_advertising.csv",
+      "target_feature": [
+        "Clicked on Ad"
+      ],
+      "task": "classification",
+      "description": "Ad Click Data.csv"
+    },
+    {
+      "dataset_path": "hmavrodiev_london-bike-sharing-dataset_london_merged.csv",
+      "target_feature": [
+        "season"
+      ],
+      "task": "classification",
+      "description": "Historical data for bike sharing in London 'Powered by TfL Open Data'"
+    },
+    {
+      "dataset_path": "rodolfomendes_abalone-dataset_abalone.csv",
+      "target_feature": [
+        "Rings"
+      ],
+      "task": "regression",
+      "description": "Predicting the age of abalone from physical measurements"
+    },
+    {
+      "dataset_path": "mathchi_diabetes-data-set_diabetes.csv",
+      "target_feature": [
+        "Outcome"
+      ],
+      "task": "classification",
+      "description": "The objective is to predict based on diagnostic measurements whether a patient has diabetes."
+    },
+    {
+      "dataset_path": "girardi69_marathon-time-predictions_MarathonData.csv",
+      "target_feature": [
+        "MarathonTime"
+      ],
+      "task": "regression",
+      "description": "Predict Marathon Results from Athletes Open Data Sources"
+    },
+    {
+      "dataset_path": "alopez247_pokemon_pokemon_alopez247.csv",
+      "target_feature": [
+        "isLegendary"
+      ],
+      "task": "classification",
+      "description": "(Almost) all Pokémon stats until generation 6: 21 variables per Pokémon"
+    },
+    {
+      "dataset_path": "vihansp_salary-data_Salary_Data.csv",
+      "target_feature": [
+        "Salary"
+      ],
+      "task": "regression",
+      "description": "Salary_data"
+    },
+    {
+      "dataset_path": "dell4010_wine-dataset_wine_dataset.csv",
+      "target_feature": [
+        "style"
+      ],
+      "task": "classification",
+      "description": "Wine dataset. Scraping from wine.com"
+    },
+    {
+      "dataset_path": "ealaxi_paysim1_PS_20174392719_1491204439457_log.csv",
+      "target_feature": [
+        "isFraud"
+      ],
+      "task": "classification",
+      "description": "Synthetic datasets generated by the PaySim mobile money simulator"
+    },
+    {
+      "dataset_path": "uciml_indian-liver-patient-records_indian_liver_patient.csv",
+      "target_feature": [
+        "Dataset"
+      ],
+      "task": "classification",
+      "description": "Patient records collected from North East of Andhra Pradesh, India"
+    },
+    {
+      "dataset_path": "carolzhangdc_imdb-5000-movie-dataset_movie_metadata.csv",
+      "target_feature": [
+        "imdb_score"
+      ],
+      "task": "regression",
+      "description": ""
+    },
+    {
+      "dataset_path": "pankajjsh06_ibm-watson-marketing-customer-value-data_WA_Fn-UseC_-Marketing-Customer-Value-Analysis.csv",
+      "target_feature": [
+        "Response"
+      ],
+      "task": "classification",
+      "description": "Using Watson Analytics, you can predict behavior to retain your customers"
+    },
+    {
+      "dataset_path": "aakash50897_churn-modellingcsv_Churn_Modelling.csv",
+      "target_feature": [
+        "Exited"
+      ],
+      "task": "classification",
+      "description": "Churn Modelling"
+    },
+    {
+      "dataset_path": "ananthr1_weather-prediction_seattle-weather.csv",
+      "target_feature": [
+        "weather"
+      ],
+      "task": "classification",
+      "description": "Predicting it will Rain or not using some Weather Conditons.."
+    },
+    {
+      "dataset_path": "zaraavagyan_weathercsv_weather.csv",
+      "target_feature": [
+        "RainToday"
+      ],
+      "task": "classification",
+      "description": "weather.csv"
+    },
+    {
+      "dataset_path": "playground-series-s3e24_train.csv",
+      "target_feature": [
+        "smoking"
+      ],
+      "task": "classification",
+      "description": "your task is to use binary classification to predict a patient's smoking status given information about various other health indicators"
+    },
+    {
+      "dataset_path": "benroshan_factors-affecting-campus-placement_Placement_Data_Full_Class.csv",
+      "target_feature": [
+        "salary"
+      ],
+      "task": "regression",
+      "description": "Academic and Employability Factors influencing placement"
+    },
+    {
+      "dataset_path": "dongeorge_beer-consumption-sao-paulo_Consumo_cerveja.csv",
+      "target_feature": [
+        "Consumo de cerveja (litros)"
+      ],
+      "task": "regression",
+      "description": "Predict beer consumption"
+    },
+    {
+      "dataset_path": "sudalairajkumar_indian-startup-funding_startup_funding.csv",
+      "target_feature": [
+        "Amount in USD"
+      ],
+      "task": "regression",
+      "description": "Funding details of the startups in India"
+    },
+    {
+      "dataset_path": "rush4ratio_video-game-sales-with-ratings_Video_Games_Sales_as_at_22_Dec_2016.csv",
+      "target_feature": [
+        "Global_Sales"
+      ],
+      "task": "regression",
+      "description": "Video game sales from Vgchartz and corresponding ratings from Metacritic"
+    },
+    {
+      "dataset_path": "burakhmmtgl_energy-molecule_roboBohr.csv",
+      "target_feature": [
+        "Eat"
+      ],
+      "task": "regression",
+      "description": "Predict molecular properties from a database of atomic level simulations"
+    },
+    {
+      "dataset_path": "ajay1735_hmeq-data_hmeq.csv",
+      "target_feature": [
+        "BAD"
+      ],
+      "task": "classification",
+      "description": "Predict clients who default on their loan"
+    },
+    {
+      "dataset_path": "parulpandey_palmer-archipelago-antarctica-penguin-data_penguins_size.csv",
+      "target_feature": [
+        "species"
+      ],
+      "task": "classification",
+      "description": "Drop in replacement for Iris Dataset"
+    },
+    {
+      "dataset_path": "ronitf_heart-disease-uci_heart.csv",
+      "target_feature": [
+        "target"
+      ],
+      "task": "classification",
+      "description": "Heart Disease Data Set from UCI data repository"
+    },
+    {
+      "dataset_path": "volodymyrgavrysh_heart-disease_heart.csv",
+      "target_feature": [
+        "target"
+      ],
+      "task": "classification",
+      "description": "Heart Disease Data set exploration"
+    },
+    {
+      "dataset_path": "prathamtripathi_drug-classification_drug200.csv",
+      "target_feature": [
+        "Drug"
+      ],
+      "task": "classification",
+      "description": "This database contains information about certain drug types."
+    },
+    {
+      "dataset_path": "mysarahmadbhat_lung-cancer_surveylungcancer.csv",
+      "target_feature": [
+        "LUNG_CANCER"
+      ],
+      "task": "classification",
+      "description": "Does Smoking cause Lung Cancer."
+    },
+    {
+      "dataset_path": "bricevergnou_spotify-recommendation_data.csv",
+      "target_feature": [
+        "liked"
+      ],
+      "task": "classification",
+      "description": "200 songs and their statistics"
+    },
+    {
+      "dataset_path": "harrimansaragih_dummy-advertising-and-sales-data_DummyDataHSS.csv",
+      "target_feature": [
+        "Sales"
+      ],
+      "task": "regression",
+      "description": "Data of TV, Influencer, Radio, and Social Media Ads budget to predict Sales"
+    },
+    {
+      "dataset_path": "dipam7_student-grade-prediction_student-mat.csv",
+      "target_feature": [
+        "G3"
+      ],
+      "task": "regression",
+      "description": "Predict the final grade of Portugese high school students"
+    },
+    {
+      "dataset_path": "playground-series-s3e25_train.csv",
+      "target_feature": [
+        "Hardness"
+      ],
+      "task": "regression",
+      "description": "your task is to use regression to predict the Mohs hardness of a mineral, given its properties"
+    },
+    {
+      "dataset_path": "edumagalhaes_quality-prediction-in-a-mining-process_MiningProcess_Flotation_Plant_Database.csv",
+      "target_feature": [
+        "% Silica Concentrate"
+      ],
+      "task": "regression",
+      "description": "Explore real industrial data and help manufacturing plants to be more efficient"
+    },
+    {
+      "dataset_path": "paresh2047_uci-semcom_uci-secom.csv",
+      "target_feature": [
+        "Pass/Fail"
+      ],
+      "task": "classification",
+      "description": "Semiconductor manufacturing process dataset"
+    },
+    {
+      "dataset_path": "mansoordaku_ckdisease_kidney_disease.csv",
+      "target_feature": [
+        "classification"
+      ],
+      "task": "classification",
+      "description": "Data has 25 feattures which may predict a patient with chronic kidney disease"
+    },
+    {
+      "dataset_path": "shayannaveed_credit-card-fraud-detection_creditcard.csv",
+      "target_feature": [
+        "Class"
+      ],
+      "task": "classification",
+      "description": "Anonymized credit card transactions labeled as fraudulent or genuine"
+    },
+    {
+      "dataset_path": "otto-group-product-classification-challenge_train.csv",
+      "target_feature": [
+        "target"
+      ],
+      "task": "classification",
+      "description": "Classify products into the correct category"
+    },
+    {
+      "dataset_path": "andrewmvd_udemy-courses_udemy_courses.csv",
+      "target_feature": [
+        "num_subscribers"
+      ],
+      "task": "regression",
+      "description": "3.682 courses listings from 4 different subjects"
+    },
+    {
+      "dataset_path": "jessemostipak_hotel-booking-demand_hotel_bookings.csv",
+      "target_feature": [
+        "is_canceled"
+      ],
+      "task": "classification",
+      "description": "From the paper: hotel booking demand datasets"
+    },
+    {
+      "dataset_path": "muhakabartay_sloan-digital-sky-survey-dr16_Skyserver_12_30_20194_49_58PM.csv",
+      "target_feature": [
+        "class"
+      ],
+      "task": "classification",
+      "description": "Sloan Digital Sky Survey DR16 Server Data with Galaxies, Stars and Quasars"
+    },
+    {
+      "dataset_path": "karthickveerakumar_spam-filter_emails.csv",
+      "target_feature": [
+        "spam"
+      ],
+      "task": "classification",
+      "description": "CSV file containing spam/not spam information about 5172 emails."
+    },
+    {
+      "dataset_path": "mathchi_hitters-baseball-data_Hitters.csv",
+      "target_feature": [
+        "Salary"
+      ],
+      "task": "regression",
+      "description": "Major League Baseball Data from the 1986 and 1987 seasons."
+    },
+    {
+      "dataset_path": "sakshigoyal7_credit-card-customers_BankChurners.csv",
+      "target_feature": [
+        "Attrition_Flag"
+      ],
+      "task": "classification",
+      "description": "Predict Churning customers"
+    },
+    {
+      "dataset_path": "dgomonov_new-york-city-airbnb-open-data_AB_NYC_2019.csv",
+      "target_feature": [
+        "price"
+      ],
+      "task": "regression",
+      "description": "Airbnb listings and metrics in NYC, NY, USA (2019)"
+    },
+    {
+      "dataset_path": "see-click-predict-fix_train.csv",
+      "target_feature": [
+        "num_votes",
+        "num_comments",
+        "num_views"
+      ],
+      "task": "regression",
+      "description": "Predict which 311 issues are most important to citizens"
+    },
+    {
+      "dataset_path": "playground-series-s3e11_train.csv",
+      "target_feature": [
+        "cost"
+      ],
+      "task": "regression",
+      "description": "you must predict the value for the target cost"
+    },
+    {
+      "dataset_path": "roshansharma_online-shoppers-intention_online_shoppers_intention.csv",
+      "target_feature": [
+        "Revenue"
+      ],
+      "task": "classification",
+      "description": "Online Shopper Intention Dataset from UCI's Machine Learning Library"
+    },
+    {
+      "dataset_path": "nicapotato_womens-ecommerce-clothing-reviews_Womens ClothingE-CommerceReviews.csv",
+      "target_feature": [
+        "Recommended IND"
+      ],
+      "task": "classification",
+      "description": "23,000 Customer Reviews and Ratings"
+    },
+    {
+      "dataset_path": "ishandutta_early-stage-diabetes-risk-prediction-dataset_diabetes_data_upload.csv",
+      "target_feature": [
+        "class"
+      ],
+      "task": "classification",
+      "description": "Sign and Symptom Data of Newly Diabetic or would be Diabetic Patient"
+    },
+    {
+      "dataset_path": "divyansh22_us-border-crossing-data_Border_Crossing_Entry_Data.csv",
+      "target_feature": [
+        "Value"
+      ],
+      "task": "regression",
+      "description": "Inbound US border crossing entries"
+    },
+    {
+      "dataset_path": "johnsmith88_heart-disease-dataset_heart.csv",
+      "target_feature": [
+        "target"
+      ],
+      "task": "classification",
+      "description": "Public Health Dataset"
+    },
+    {
+      "dataset_path": "mruanova_us-gasoline-and-diesel-retail-prices-19952021_PET_PRI_GND_DCUS_NUS_W.csv",
+      "target_feature": [
+        "D1"
+      ],
+      "task": "regression",
+      "description": "Weekly Retail Gasoline and Diesel Prices"
+    },
+    {
+      "dataset_path": "swanirvahan-hack-for-climate-20-ict-ioc_train.csv",
+      "target_feature": [
+        "Strength"
+      ],
+      "task": "regression",
+      "description": "Help Chemical Engineers make a strong cement for sustainable applications."
+    },
+    {
+      "dataset_path": "jsphyg_weather-dataset-rattle-package_weatherAUS.csv",
+      "target_feature": [
+        "RainTomorrow"
+      ],
+      "task": "classification",
+      "description": "Predict next-day rain in Australia"
+    },
+    {
+      "dataset_path": "jojoker_singapore-airbnb_listings.csv",
+      "target_feature": [
+        "price"
+      ],
+      "task": "regression",
+      "description": "Can you find out how many feature that affected the price?"
+    },
+    {
+      "dataset_path": "saurabh00007_iriscsv_Iris.csv",
+      "target_feature": [
+        "Species"
+      ],
+      "task": "classification",
+      "description": "iris.csv"
+    },
+    {
+      "dataset_path": "christianlillelund_passenger-list-for-the-estonia-ferry-disaster_estonia-passenger-list.csv",
+      "target_feature": [
+        "Survived"
+      ],
+      "task": "classification",
+      "description": "The full list of all passengers and crew members aboard the MS Estonia."
+    },
+    {
+      "dataset_path": "mdabbert_ultimate-ufc-dataset_ufc-master.csv",
+      "target_feature": [
+        "label"
+      ],
+      "task": "classification",
+      "description": "Merging All Kaggle Public UFC Datasets"
+    },
+    {
+      "dataset_path": "steveahn_memory-test-on-drugged-islanders-data_Islander_data.csv",
+      "target_feature": [
+        "Happy_Sad_group"
+      ],
+      "task": "classification",
+      "description": "Anti-Anxiety Medicine on Novel Islanders grouped by Happy or Sad Memory Priming"
+    },
+    {
+      "dataset_path": "predict-closed-questions-on-stack-overflow_train.csv",
+      "target_feature": [
+        "OpenStatus"
+      ],
+      "task": "classification",
+      "description": "Predict which new questions asked on Stack Overflow will be closed"
+    },
+    {
+      "dataset_path": "mirichoi0218_insurance_insurance.csv",
+      "target_feature": [
+        "charges"
+      ],
+      "task": "regression",
+      "description": "Insurance Forecast by using Linear Regression"
+    },
+    {
+      "dataset_path": "datamunge_sign-language-mnist_sign_mnist_train.csv",
+      "target_feature": [
+        "label"
+      ],
+      "task": "classification",
+      "description": "Drop-In Replacement for MNIST for Hand Gesture Recognition Tasks"
+    },
+    {
+      "dataset_path": "uciml_mushroom-classification_mushrooms.csv",
+      "target_feature": [
+        "class"
+      ],
+      "task": "classification",
+      "description": "Safe to eat or deadly poison?"
+    },
+    {
+      "dataset_path": "shrutimechlearn_churn-modelling_Churn_Modelling.csv",
+      "target_feature": [
+        "Exited"
+      ],
+      "task": "classification",
+      "description": "Churn Modelling"
+    },
+    {
+      "dataset_path": "maajdl_yeh-concret-data_Concrete_Data_Yeh.csv",
+      "target_feature": [
+        "csMPa"
+      ],
+      "task": "regression",
+      "description": "Predictions sensitivity to the training set (1030 concretes samples)"
+    },
+    {
+      "dataset_path": "jemishdonda_headbrain_headbrain.csv",
+      "target_feature": [
+        "Brain Weight(grams)"
+      ],
+      "task": "regression",
+      "description": "headbrain.csv"
+    },
+    {
+      "dataset_path": "smid80_weatherww2_SummaryofWeather.csv",
+      "target_feature": [
+        "MaxTemp"
+      ],
+      "task": "regression",
+      "description": "Daily Weather Summaries from 1940-1945"
+    },
+    {
+      "dataset_path": "brendan45774_test-file_tested.csv",
+      "target_feature": [
+        "Survived"
+      ],
+      "task": "classification",
+      "description": "Titanic dataset"
+    },
+    {
+      "dataset_path": "playground-series-s3e20_train.csv",
+      "target_feature": [
+        "emission"
+      ],
+      "task": "regression",
+      "description": "The objective of this challenge is to create machine learning models that use open-source emissions data (from Sentinel-5P satellite observations) to predict carbon emissions"
+    },
+    {
+      "dataset_path": "ruslankl_mice-protein-expression_Data_Cortex_Nuclear.csv",
+      "target_feature": [
+        "class"
+      ],
+      "task": "classification",
+      "description": "Expression levels of 77 proteins measured in the cerebral cortex"
+    },
+    {
+      "dataset_path": "alexteboul_heart-disease-health-indicators-dataset_heart_disease_health_indicators_BRFSS2015.csv",
+      "target_feature": [
+        "HeartDiseaseorAttack"
+      ],
+      "task": "classification",
+      "description": "253,680 survey responses from cleaned BRFSS 2015 - binary classification"
+    },
+    {
+      "dataset_path": "altavish_boston-housing-dataset_HousingData.csv",
+      "target_feature": [
+        "MEDV"
+      ],
+      "task": "regression",
+      "description": "Boston housing dataset"
+    },
+    {
+      "dataset_path": "kartik2112_fraud-detection_fraudTrain.csv",
+      "target_feature": [
+        "is_fraud"
+      ],
+      "task": "classification",
+      "Simulated Credit Card Transactions generated using Sparkov": "Simulated Credit Card Transactions generated using Sparkov"
+    },
+    {
+      "dataset_path": "arashnic_hr-analytics-job-change-of-data-scientists_aug_train.csv",
+      "target_feature": [
+        "target"
+      ],
+      "task": "classification",
+      "description": "Predict who will move to a new job"
+    },
+    {
+      "dataset_path": "jealousleopard_goodreadsbooks_books.csv",
+      "target_feature": [
+        "average_rating"
+      ],
+      "task": "regression",
+      "description": "comprehensive list of books listed in goodreads"
+    },
+    {
+      "dataset_path": "neuromusic_avocado-prices_avocado.csv",
+      "target_feature": [
+        "AveragePrice"
+      ],
+      "task": "regression",
+      "description": "Historical data on avocado prices and sales volume in multiple US markets"
+    },
+    {
+      "dataset_path": "neiljs_all-shark-tank-us-pitches-deals_Sharktankpitchesdeals.csv",
+      "target_feature": [
+        "Deal_Status"
+      ],
+      "task": "classification",
+      "description": "Can you predict if a company/product pitch would succeed in Shark tank?"
+    },
+    {
+      "dataset_path": "shivamb_real-or-fake-fake-jobposting-prediction_fake_job_postings.csv",
+      "target_feature": [
+        "fraudulent"
+      ],
+      "task": "classification",
+      "description": "Dataset of real and fake job postings"
+    },
+    {
+      "dataset_path": "joshmcadams_oranges-vs-grapefruit_citrus.csv",
+      "target_feature": [
+        "name"
+      ],
+      "task": "classification",
+      "description": "Orange and grapefruit diameter, weight, and color data."
+    },
+    {
+      "dataset_path": "playground-series-s3e23_train.csv",
+      "target_feature": [
+        "defects"
+      ],
+      "task": "classification",
+      "description": "Predict defects in C programs given various various attributes about the code."
+    },
+    {
+      "dataset_path": "debajyotipodder_co2-emission-by-vehicles_CO2Emissions_Canada.csv",
+      "target_feature": [
+        "CO2 Emissions(g/km)"
+      ],
+      "task": "regression",
+      "description": "Amount of CO2 emissions by a vehicle depending on their various features."
+    },
+    {
+      "dataset_path": "maitree_wine-quality-selection_winequality-red.csv",
+      "target_feature": [
+        "quality"
+      ],
+      "task": "classification",
+      "description": "Wine Quality Prediction - Classification Prediction"
+    },
+    {
+      "dataset_path": "harinir_petrol-consumption_petrol_consumption.csv",
+      "target_feature": [
+        "Petrol_Consumption"
+      ],
+      "task": "regression",
+      "description": "petrol consumption"
+    },
+    {
+      "dataset_path": "new-york-city_nyc-property-sales_nyc-rolling-sales.csv",
+      "target_feature": [
+        "SALE PRICE"
+      ],
+      "task": "regression",
+      "description": "A year's worth of properties sold on the NYC real estate market"
+    },
+    {
+      "dataset_path": "nfl-big-data-bowl-2020_train.csv",
+      "target_feature": [
+        "Yards"
+      ],
+      "task": "regression",
+      "description": "How many yards will an NFL player gain after receiving a handoff?"
+    },
+    {
+      "dataset_path": "aljarah_xAPI-Edu-Data_xAPI-Edu-Data.csv",
+      "target_feature": [
+        "Class"
+      ],
+      "task": "classification",
+      "description": "xAPI-Educational Mining Dataset"
+    },
+    {
+      "dataset_path": "kumarajarshi_life-expectancy-who_LifeExpectancyData.csv",
+      "target_feature": [
+        "Status"
+      ],
+      "task": "classification",
+      "description": "Statistical Analysis on factors influencing Life Expectancy"
+    },
+    {
+      "dataset_path": "ninzaami_loan-predication_train_u6lujuX_CVtuZ9i(1).csv",
+      "target_feature": [
+        "Loan_Status"
+      ],
+      "task": "classification",
+      "description": "Loan_Predication problem"
+    },
+    {
+      "dataset_path": "vishnusraghavan_the-interview-attendance-problem_Interview.csv",
+      "target_feature": [
+        "Observed Attendance"
+      ],
+      "task": "regression",
+      "description": "Predict which candidates will attend the intervew"
+    },
+    {
+      "dataset_path": "wenruliu_adult-income-dataset_adult.csv",
+      "target_feature": [
+        "income"
+      ],
+      "task": "classification",
+      "description": "An individual’s annual income results from various factors. Intuitively, it is influenced by the individual’s education level, age, gender, occupation, and etc."
+    },
+    {
+      "dataset_path": "barelydedicated_bank-customer-churn-modeling_Churn_Modelling.csv",
+      "target_feature": [
+        "Exited"
+      ],
+      "task": "classification",
+      "description": "Can you predict if bank customers will turnover next cycle?"
+    },
+    {
+      "dataset_path": "brandao_diabetes_diabetic_data.csv",
+      "target_feature": [
+        "readmitted"
+      ],
+      "task": "classification",
+      "description": "It is important to know if a patient will be readmitted in some hospital"
+    },
+    {
+      "dataset_path": "teertha_ushealthinsurancedataset_insurance.csv",
+      "target_feature": [
+        "charges"
+      ],
+      "task": "regression",
+      "description": "Insurance Premium Charges in US with important details for risk underwriting."
+    },
+    {
+      "dataset_path": "gauravduttakiit_loan-defaulter_application_data.csv",
+      "target_feature": [
+        "TARGET"
+      ],
+      "task": "classification",
+      "description": "EDA in a real business scenario"
+    },
+    {
+      "dataset_path": "apartment-prices-in-the-czech-republic_train.csv",
+      "target_feature": [
+        "price"
+      ],
+      "task": "regression",
+      "description": "Your goal is to predict price of apartments in Czech Republic. Use advanced regression models to solve this problem."
+    },
+    {
+      "dataset_path": "schirmerchad_bostonhoustingmlnd_housing.csv",
+      "target_feature": [
+        "MEDV"
+      ],
+      "task": "regression",
+      "description": "Concerns housing values in suburbs of Boston"
+    },
+    {
+      "dataset_path": "dragonheir_logistic-regression_Social_Network_Ads.csv",
+      "target_feature": [
+        "Purchased"
+      ],
+      "task": "classification",
+      "description": "This project will be a walkthrough of a simple Logistic Regression model in an attempt to strategize a basic ad-targeting campaign for a social media network/website"
+    },
+    {
+      "dataset_path": "dansbecker_home-data-for-ml-course_train.csv",
+      "target_feature": [
+        "SalePrice"
+      ],
+      "task": "regression",
+      "description": "Data for Learn ML Course. Same as the Housing Price Getting Started Competition"
+    },
+    {
+      "dataset_path": "ventilator-pressure-prediction_train.csv",
+      "target_feature": [
+        "pressure"
+      ],
+      "task": "regression",
+      "description": "Simulate a ventilator connected to a sedated patient's lung"
+    },
+    {
+      "dataset_path": "crawford_80-cereals_cereal.csv",
+      "target_feature": [
+        "rating"
+      ],
+      "task": "regression",
+      "description": "Nutrition data on 80 cereal products"
+    },
+    {
+      "dataset_path": "mustafaali96_weight-height_weight-height.csv",
+      "target_feature": [
+        "Height"
+      ],
+      "task": "regression",
+      "description": "weights and heights."
+    },
+    {
+      "dataset_path": "sammy123_lower-back-pain-symptoms-dataset_Dataset_spine.csv",
+      "target_feature": [
+        "Class_att"
+      ],
+      "task": "classification",
+      "description": "This data set is about to identify a person is abnormal or normal using collected physical spine details/data."
+    },
+    {
+      "dataset_path": "unanimad_dataisbeautiful_r_dataisbeautiful_posts.csv",
+      "target_feature": [
+        "over_18"
+      ],
+      "task": "classification",
+      "description": "Posts of Data is Beautiful, a Reddit community."
+    },
+    {
+      "dataset_path": "rtatman_us-candy-production-by-month_candy_production.csv",
+      "target_feature": [
+        "IPG3113N"
+      ],
+      "task": "regression",
+      "description": "From January 1972 to August 2017"
+    },
+    {
+      "dataset_path": "hakabuk_gun-deaths-in-the-us_guns.csv",
+      "target_feature": [
+        "intent"
+      ],
+      "task": "classification",
+      "description": "Information about gun-deaths from the CDC: Ages, gender, intent and more"
+    },
+    {
+      "dataset_path": "koki25ando_22000-scotch-whisky-reviews_scotch_review.csv",
+      "target_feature": [
+        "category"
+      ],
+      "task": "classification",
+      "description": "Dataset Includes 2,2k+ Scotch Whisky Reviews"
+    },
+    {
+      "dataset_path": "bnp-paribas-cardif-claims-management_train.csv",
+      "target_feature": [
+        "target"
+      ],
+      "task": "classification",
+      "description": "Can you accelerate BNP Paribas Cardif's claims management process?"
+    },
+    {
+      "dataset_path": "yasserh_wine-quality-dataset_WineQT.csv",
+      "target_feature": [
+        "quality"
+      ],
+      "task": "classification",
+      "description": "Wine Quality Prediction - Classification Prediction"
+    },
+    {
+      "dataset_path": "kabure_german-credit-data-with-risk_german_credit_data.csv",
+      "target_feature": [
+        "Risk"
+      ],
+      "task": "classification",
+      "description": "It's a classic dataset of Good and Bad Loans"
+    },
+    {
+      "dataset_path": "dronio_SolarEnergy_SolarPrediction.csv",
+      "target_feature": [
+        "Radiation"
+      ],
+      "task": "regression",
+      "description": "It contains measurements for the past 4 months and you have to predict the level of solar radiation."
+    },
+    {
+      "dataset_path": "tejashvi14_travel-insurance-prediction-data_TravelInsurancePrediction.csv",
+      "target_feature": [
+        "TravelInsurance"
+      ],
+      "task": "classification",
+      "description": "Predict Whether A Customer Will Be Interested In Buying Travel Insurance"
+    },
+    {
+      "dataset_path": "toramky_automobile-dataset_Automobile_data.csv",
+      "target_feature": [
+        "price"
+      ],
+      "task": "regression",
+      "description": "Dataset consist of various characteristic of an auto"
+    },
+    {
+      "dataset_path": "shubh0799_churn-modelling_Churn_Modelling.csv",
+      "target_feature": [
+        "Exited"
+      ],
+      "task": "classification",
+      "description": "Churn Modelling"
+    },
+    {
+      "dataset_path": "martj42_international-football-results-from-1872-to-2017_results.csv",
+      "target_feature": [
+        "neutral"
+      ],
+      "task": "classification",
+      "description": "An up-to-date dataset of over 40,000 international football results"
+    },
+    {
+      "dataset_path": "deepankurk_flight-take-off-data-jfk-airport_M1_final.csv",
+      "target_feature": [
+        "TAXI_OUT"
+      ],
+      "task": "regression",
+      "description": "This data contains flight details taking off from JFK airport."
+    },
+    {
+      "dataset_path": "paytonfisher_sp-500-companies-with-financial-information_financials.csv",
+      "target_feature": [
+        "Price"
+      ],
+      "task": "regression",
+      "description": "A Dataset with Key Stock Market Information"
+    },
+    {
+      "dataset_path": "adityakadiwal_water-potability_water_potability.csv",
+      "target_feature": [
+        "Potability"
+      ],
+      "task": "classification",
+      "description": "Drinking water potability"
+    },
+    {
+      "dataset_path": "itachi9604_disease-symptom-description-dataset_dataset.csv",
+      "target_feature": [
+        "Disease"
+      ],
+      "task": "classification",
+      "description": "helps to create a disease prediction or healthcare system"
+    },
+    {
+      "dataset_path": "kevinarvai_clinvar-conflicting_clinvar_conflicting.csv",
+      "target_feature": [
+        "CLASS"
+      ],
+      "task": "classification",
+      "description": "Predict whether a variant will have conflicting clinical classifications."
+    },
+    {
+      "dataset_path": "artimule_drinking-water-probability_drinking_water_potability.csv",
+      "target_feature": [
+        "Potability"
+      ],
+      "task": "classification",
+      "description": "Safe Drinking water to health purpose."
+    },
+    {
+      "dataset_path": "gauravduttakiit_resume-dataset_UpdatedResumeDataSet.csv",
+      "target_feature": [
+        "Category"
+      ],
+      "task": "classification",
+      "description": "Typically, large companies do not have enough time to open each CV, so they use machine learning algorithms for the Resume Screening task."
+    },
+    {
+      "dataset_path": "datasnaek_league-of-legends_games.csv",
+      "target_feature": [
+        "winner"
+      ],
+      "task": "classification",
+      "description": "Details from over 50,000 ranked games of LoL"
+    },
+    {
+      "dataset_path": "itssuru_loan-data_loan_data.csv",
+      "target_feature": [
+        "not.fully.paid"
+      ],
+      "task": "classification",
+      "description": "classify and predict whether or not the borrower paid back their loan in full."
+    },
+    {
+      "dataset_path": "jacklizhi_creditcard_creditcard.csv",
+      "target_feature": [
+        "Class"
+      ],
+      "task": "classification",
+      "description": "how to manage the unbalance dataset"
+    },
+    {
+      "dataset_path": "andrewmvd_heart-failure-clinical-data_heart_failure_clinical_records_dataset.csv",
+      "target_feature": [
+        "DEATH_EVENT"
+      ],
+      "task": "classification",
+      "description": "12 clinical features por predicting death events."
+    },
+    {
+      "dataset_path": "tristan581_17k-apple-app-store-strategy-games_appstore_games.csv",
+      "target_feature": [
+        "Average User Rating"
+      ],
+      "task": "regression",
+      "description": "You could use the number of ratings as a proxy indicator for the overall success of a game, and then work out what factors make a successful game"
+    },
+    {
+      "dataset_path": "hesh97_titanicdataset-traincsv_train.csv",
+      "target_feature": [
+        "Survived"
+      ],
+      "task": "classification",
+      "description": "Predict survival on the Titanic and get familiar with ML basics"
+    },
+    {
+      "dataset_path": "khsamaha_aviation-accident-database-synopses_AviationData.csv",
+      "target_feature": [
+        "Total.Fatal.Injuries"
+      ],
+      "task": "regression",
+      "description": "The NTSB aviation accident dataset up to Feb 2021"
+    },
+    {
+      "dataset_path": "sazid28_advertising.csv_Advertising.csv",
+      "target_feature": [
+        "sales"
+      ],
+      "task": "regression",
+      "description": "It is data set for linear regrssion"
+    },
+    {
+      "dataset_path": "tejashvi14_engineering-placements-prediction_collegePlace.csv",
+      "target_feature": [
+        "PlacedOrNot"
+      ],
+      "task": "classification",
+      "description": "Predict Final Year Engineering College Placements"
+    },
+    {
+      "dataset_path": "volodymyrgavrysh_fraud-detection-bank-dataset-20k-records-binary_fraud_detection_bank_dataset.csv",
+      "target_feature": [
+        "targets"
+      ],
+      "task": "classification",
+      "description": "20k records of customer transactions with 112 features"
+    },
+    {
+      "dataset_path": "kamilpytlak_personal-key-indicators-of-heart-disease_heart_2020_cleaned.csv",
+      "target_feature": [
+        "HeartDisease"
+      ],
+      "task": "classification",
+      "description": "2022 annual CDC survey data of 400k+ adults related to their health status"
+    },
+    {
+      "dataset_path": "kamrankausar_iris-data_Iris.csv",
+      "target_feature": [
+        "Species"
+      ],
+      "task": "classification",
+      "description": "Classify iris plants into three species in this classic dataset"
+    },
+    {
+      "dataset_path": "faizunnabi_autism-screening_Autism_Data.csv",
+      "target_feature": [
+        "Class/ASD"
+      ],
+      "task": "classification",
+      "description": "Classifying autistic patients based upon the screening results."
+    },
+    {
+      "dataset_path": "harlfoxem_housesalesprediction_kc_house_data.csv",
+      "target_feature": [
+        "price"
+      ],
+      "task": "regression",
+      "description": "Predict house price using regression"
+    },
+    {
+      "dataset_path": "shubhambathwal_flight-price-prediction_Clean_Dataset.csv",
+      "target_feature": [
+        "price"
+      ],
+      "task": "regression",
+      "description": "Predict Fllight Price, practise feature engineering, implement ensemble models"
+    },
+    {
+      "dataset_path": "patelprashant_employee-attrition_WA_Fn-UseC_-HR-Employee-Attrition.csv",
+      "target_feature": [
+        "Attrition"
+      ],
+      "task": "classification",
+      "description": "Fictional dataset on HR Employee attrition and performance"
+    },
+    {
+      "dataset_path": "birdy654_eeg-brainwave-dataset-feeling-emotions_emotions.csv",
+      "target_feature": [
+        "label"
+      ],
+      "task": "classification",
+      "description": "Positive and Negative emotional experiences captured from the brain"
+    },
+    {
+      "dataset_path": "willkoehrsen_home-credit-manual-engineered-features_train_bureau_raw.csv",
+      "target_feature": [
+        "TARGET"
+      ],
+      "task": "classification",
+      "description": "Can you predict how capable each applicant is of repaying a loan?"
+    },
+    {
+      "dataset_path": "brsdincer_star-type-classification_Stars.csv",
+      "target_feature": [
+        "Type"
+      ],
+      "task": "classification",
+      "description": "For Type Prediction & Classification"
+    },
+    {
+      "dataset_path": "gregorut_videogamesales_vgsales.csv",
+      "target_feature": [
+        "Genre"
+      ],
+      "task": "classification",
+      "description": "Analyze sales data from more than 16,500 games."
+    },
+    {
+      "dataset_path": "icr-identify-age-related-conditions_train.csv",
+      "target_feature": [
+        "Class"
+      ],
+      "task": "classification",
+      "description": "Use Machine Learning to detect conditions with measurements of anonymous characteristics"
+    },
+    {
+      "dataset_path": "jmmvutu_summer-products-and-sales-in-ecommerce-wish_summer-products-with-rating-and-performance_2020-08.csv",
+      "target_feature": [
+        "units_sold"
+      ],
+      "task": "regression",
+      "description": "Top products with ratings and sales performance, unlike many other datasets"
+    },
+    {
+      "dataset_path": "yersever_500-person-gender-height-weight-bodymassindex_500_Person_Gender_Height_Weight_Index.csv",
+      "target_feature": [
+        "Index"
+      ],
+      "task": "classification",
+      "description": "Height and Weight random generated, Body Mass Index Calculated"
+    },
+    {
+      "dataset_path": "thomasnibb_amsterdam-house-price-prediction_HousingPrices-Amsterdam-August-2021.csv",
+      "target_feature": [
+        "Price"
+      ],
+      "task": "regression",
+      "description": "Predict Sales Prices and Practice Feature Engineering"
+    },
+    {
+      "dataset_path": "crawford_1000-cameras-dataset_camera_dataset.csv",
+      "target_feature": [
+        "Max resolution"
+      ],
+      "task": "regression",
+      "description": "Data describing 1000 cameras in 13 properties"
+    },
+    {
+      "dataset_path": "bobbyscience_league-of-legends-diamond-ranked-games-10-min_high_diamond_ranked_10min.csv",
+      "target_feature": [
+        "blueWins"
+      ],
+      "task": "classification",
+      "description": "Classify LoL ranked games outcome by looking at the first 10min worth of data"
+    },
+    {
+      "dataset_path": "vedavyasv_usa-housing_USA_Housing.csv",
+      "target_feature": [
+        "Price"
+      ],
+      "task": "regression",
+      "description": "House Sales Price Predictions"
+    },
+    {
+      "dataset_path": "tedllh_titanic-train_titanic_train.csv",
+      "target_feature": [
+        "Survived"
+      ],
+      "task": "regression",
+      "description": "Titanic dataset"
+    },
+    {
+      "dataset_path": "austinreese_craigslist-carstrucks-data_vehicles.csv",
+      "target_feature": [
+        "price"
+      ],
+      "task": "regression",
+      "description": "Vehicles listings from Craigslist.org"
+    },
+    {
+      "dataset_path": "zhijinzhai_loandata_Loanpaymentsdata.csv",
+      "target_feature": [
+        "loan_status"
+      ],
+      "task": "classification",
+      "description": "This dataset includes customers who have paid off their loans or not"
+    },
+    {
+      "dataset_path": "amitabhajoy_bengaluru-house-price-data_Bengaluru_House_Data.csv",
+      "target_feature": [
+        "price"
+      ],
+      "task": "regression",
+      "description": "Bengaluru House price data"
+    },
+    {
+      "dataset_path": "yasserh_student-marks-dataset_Student_Marks.csv",
+      "target_feature": [
+        "Marks"
+      ],
+      "task": "regression",
+      "description": "Student Marks Prediction - Regression Problem"
+    },
+    {
+      "dataset_path": "aungpyaeap_fish-market_Fish.csv",
+      "target_feature": [
+        "Species"
+      ],
+      "task": "classification",
+      "description": "create a machine learning model to predict the weight of the fish based on the body measurement data of seven types of fish species"
+    },
+    {
+      "dataset_path": "playground-series-s3e17_train.csv",
+      "target_feature": [
+        "achine failure"
+      ],
+      "task": "classification",
+      "description": "your objective is to predict the probability of Machine failure"
+    },
+    {
+      "dataset_path": "arshid_iris-flower-dataset_IRIS.csv",
+      "target_feature": [
+        "species"
+      ],
+      "task": "classification",
+      "description": "Iris flower data set used for multi-class classification."
+    },
+    {
+      "dataset_path": "szamil_who-suicide-statistics_who_suicide_statistics.csv",
+      "target_feature": [
+        "suicides_no"
+      ],
+      "task": "regression",
+      "description": "Basic historical (1979-2016) data by country, year and demographic groups"
+    },
+    {
+      "dataset_path": "abbasit_kyphosis-dataset_kyphosis.csv",
+      "target_feature": [
+        "Kyphosis"
+      ],
+      "task": "classification",
+      "description": "Kyphosis Dataset"
+    },
+    {
+      "dataset_path": "merishnasuwal_breast-cancer-prediction-dataset_Breast_cancer_data.csv",
+      "target_feature": [
+        "diagnosis"
+      ],
+      "task": "classification",
+      "description": "the doctor will conduct a diagnosis to determine whether it is cancerous and, if so, whether it has spread to other parts of the body."
+    },
+    {
+      "dataset_path": "janiobachmann_bank-marketing-dataset_bank.csv",
+      "target_feature": [
+        "deposit"
+      ],
+      "task": "classification",
+      "description": "Predicting Term Deposit Suscriptions"
+    },
+    {
+      "dataset_path": "futurecorporation_epitope-prediction_input_bcell.csv",
+      "target_feature": [
+        "target"
+      ],
+      "task": "classification",
+      "description": "A simple dataset for epitope prediction used in vaccine development"
+    },
+    {
+      "dataset_path": "carlolepelaars_toy-dataset_toy_dataset.csv",
+      "target_feature": [
+        "Illness"
+      ],
+      "task": "classification",
+      "description": "A fictional dataset for exploratory data analysis (EDA) and to test simple prediction models."
+    },
+    {
+      "dataset_path": "sootersaalu_amazon-top-50-bestselling-books-2009-2019_bestsellerswithcategories.csv",
+      "target_feature": [
+        "User Rating"
+      ],
+      "task": "regression",
+      "description": "Dataset on Amazon's Top 50 bestselling books from 2009 to 2019. Contains 550 books, data has been categorized into fiction and non-fiction using Goodreads"
+    },
+    {
+      "dataset_path": "piyushgoyal443_red-wine-dataset_wineQualityReds.csv",
+      "target_feature": [
+        "quality"
+      ],
+      "task": "classification",
+      "description": "This is a subset of wine quality dataset which contains only red wine samples"
+    },
+    {
+      "dataset_path": "hb20007_gender-classification_TransformedDataSet-Sheet1.csv",
+      "target_feature": [
+        "Gender"
+      ],
+      "task": "classification",
+      "description": "Classifying gender based on personal preferences"
+    },
+    {
+      "dataset_path": "spscientist_students-performance-in-exams_StudentsPerformance.csv",
+      "target_feature": [
+        "writing score"
+      ],
+      "task": "regression",
+      "description": "Marks secured by the students in various subjects"
+    },
+    {
+      "dataset_path": "kritikseth_us-airbnb-open-data_AB_US_2020.csv",
+      "target_feature": [
+        "price"
+      ],
+      "task": "regression",
+      "description": "Airbnb listings and metrics of regions in the U.S."
+    },
+    {
+      "dataset_path": "annetxu_health-insurance-cost-prediction_insurance.csv",
+      "target_feature": [
+        "charges"
+      ],
+      "task": "regression",
+      "description": "Insurance Forecast by using Linear Regression"
+    },
+    {
+      "dataset_path": "barelydedicated_bank-customer-churn-modeling_Churn_Modelling.csv",
+      "target_feature": [
+        "Exited"
+      ],
+      "task": "classification",
+      "description": "Churn Modelling"
+    },
+    {
+      "dataset_path": "yufengdev_bbc-fulltext-and-category_bbc-text.csv",
+      "target_feature": [
+        "category"
+      ],
+      "task": "classification",
+      "description": "Title, body, and category of over 2 thousand BBC full text articles."
+    },
+    {
+      "dataset_path": "elakiricoder_gender-classification-dataset_gender_classification_v7.csv",
+      "target_feature": [
+        "gender"
+      ],
+      "task": "classification",
+      "description": "Male Female image dataset"
+    },
+    {
+      "dataset_path": "godaddy-microbusiness-density-forecasting_train.csv",
+      "target_feature": [
+        "microbusiness_density"
+      ],
+      "task": "regression",
+      "description": "Forecast Next Month’s Microbusiness Density"
+    },
+    {
+      "dataset_path": "sachinsharma1123_room-occupancy_file.csv",
+      "target_feature": [
+        "Occupancy"
+      ],
+      "task": "classification",
+      "description": "Predicting the room occupancy"
+    },
+    {
+      "dataset_path": "gagandeep16_car-sales_Car_sales.csv",
+      "target_feature": [
+        "Price_in_thousands"
+      ],
+      "task": "regression",
+      "description": "This is the Car sales data set which include information about different cars"
+    },
+    {
+      "dataset_path": "gopalchettri_advertisement_advertising.csv",
+      "target_feature": [
+        "Clicked on Ad"
+      ],
+      "task": "classification",
+      "description": "Ad Click Data.csv"
+    },
+    {
+      "dataset_path": "hmavrodiev_london-bike-sharing-dataset_london_merged.csv",
+      "target_feature": [
+        "season"
+      ],
+      "task": "classification",
+      "description": "Historical data for bike sharing in London 'Powered by TfL Open Data'"
+    },
+    {
+      "dataset_path": "rodolfomendes_abalone-dataset_abalone.csv",
+      "target_feature": [
+        "Rings"
+      ],
+      "task": "regression",
+      "description": "Predicting the age of abalone from physical measurements"
+    },
+    {
+      "dataset_path": "mathchi_diabetes-data-set_diabetes.csv",
+      "target_feature": [
+        "Outcome"
+      ],
+      "task": "classification",
+      "description": "The objective is to predict based on diagnostic measurements whether a patient has diabetes."
+    },
+    {
+      "dataset_path": "girardi69_marathon-time-predictions_MarathonData.csv",
+      "target_feature": [
+        "MarathonTime"
+      ],
+      "task": "regression",
+      "description": "Predict Marathon Results from Athletes Open Data Sources"
+    },
+    {
+      "dataset_path": "alopez247_pokemon_pokemon_alopez247.csv",
+      "target_feature": [
+        "isLegendary"
+      ],
+      "task": "classification",
+      "description": "(Almost) all Pokémon stats until generation 6: 21 variables per Pokémon"
+    },
+    {
+      "dataset_path": "vihansp_salary-data_Salary_Data.csv",
+      "target_feature": [
+        "Salary"
+      ],
+      "task": "regression",
+      "description": "Salary_data"
+    },
+    {
+      "dataset_path": "dell4010_wine-dataset_wine_dataset.csv",
+      "target_feature": [
+        "style"
+      ],
+      "task": "classification",
+      "description": "Wine dataset. Scraping from wine.com"
+    },
+    {
+      "dataset_path": "ealaxi_paysim1_PS_20174392719_1491204439457_log.csv",
+      "target_feature": [
+        "isFraud"
+      ],
+      "task": "classification",
+      "description": "Synthetic datasets generated by the PaySim mobile money simulator"
+    },
+    {
+      "dataset_path": "uciml_indian-liver-patient-records_indian_liver_patient.csv",
+      "target_feature": [
+        "Dataset"
+      ],
+      "task": "classification",
+      "description": "Patient records collected from North East of Andhra Pradesh, India"
+    }
+]
