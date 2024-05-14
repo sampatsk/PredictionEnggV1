@@ -12,7 +12,7 @@ For AutoDW code, visit https://dlvault.fla.fujitsu.com/lliu/Data_wrangling_LLM/t
 
 # Test on following files will be ignored due to certain assumptions
 
-Files with more than 10000 columns (due to LLM token limit and streamlit demo being too slow, so user has to do manual selection)
+Files with more than 10000 columns (due to LLM token limit and streamlit demo being too slow, user has to do manual selection)
 - 1128.csv
 
 Files larger than 1G in size (streamlit demo limits files size to 1G currently)
@@ -22,7 +22,7 @@ Files larger than 1G in size (streamlit demo limits files size to 1G currently)
 - Microsoft-Malware-Prediction.csv
 - predict-closed-questions-on-stack-overflow_train.csv
 
-Files with more than one target columns (LLM based target prediction only predicts top-1 result by default)
+Files with more than one ground-truth target columns (LLM based target prediction only returns top-1 result by default)
 - enb.csv
 - jura.csv
 - kevinmh_fifa-18-more-complete-player-dataset_complete.csv
@@ -31,19 +31,18 @@ Files with more than one target columns (LLM based target prediction only predic
 - sf2.csv
 
 GT_target_task.json file contains ground-truth target column and ML task type for each dataset, against which accuracy will be calculated\
-Accuracy is calculated over 275 (total csvs) - 12 (above exceptions) = 263 count
 
 # Run batch script
 
 Follow entire installation instructions mentioned on the "Getting Started" section of https://dlvault.fla.fujitsu.com/lliu/Data_wrangling_LLM/tree/main/data_wrangling_llm_code page\
-(to create conda environment and set up LLM endpoint/key as environment variable)\
-```cd PredictionEnggV1```
-```conda activate <name_of_env>```
-```python PE_<date>_<year>.py```
+(This will help you to create conda environment, install necessary libraries and set up LLM endpoint/key as environment variable)\
+```cd PredictionEnggV1```\
+```conda activate <name_of_env>```\
+```python PE_<date>_<year>.py```\
 
 This will iterate over all datasets and store prediction results in respective ```results_<date>_<year>.csv``` file.
 
-Column headers of result files are as follws:
+Column of result files are as follws:
 - dataset name
 - predicted target col (top1)
 - GT target col (top1)
