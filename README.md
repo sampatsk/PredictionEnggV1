@@ -37,9 +37,9 @@ Accuracy is calculated over 275 (total csvs) - 12 (above exceptions) = 263 count
 
 Follow entire installation instructions mentioned on the "Getting Started" section of https://dlvault.fla.fujitsu.com/lliu/Data_wrangling_LLM/tree/main/data_wrangling_llm_code page\
 (to create conda environment and set up LLM endpoint/key as environment variable)\
-```cd PredictionEnggV1```\
-```conda activate <name_of_env>```\
-```python PE_<date>_<year>.py```\
+```cd PredictionEnggV1```
+```conda activate <name_of_env>```
+```python PE_<date>_<year>.py```
 
 This will iterate over all datasets and store prediction results in respective ```results_<date>_<year>.csv``` file.
 
@@ -58,9 +58,9 @@ Column headers of result files are as follws:
 This process can take some time as there are some delays (time.sleep) purposely added to prevent exceeding token limit of LLMs per minute.
 
 # Evaluation Metrics
-- TC (top1_acc) - # datasets where LLM predicted Top1 target column exactly matches with the ground-truth target column / total # datasers (i.e. 263)
-- TC (top3_acc) - # datasets where LLM predicted Top3 target column contains the ground-truth target column / total # datasers (i.e. 263)
-- MLT \| TC (top1_acc) - # datasets where predicted ML task type target column contains the ground-truth target column / total # datasers (i.e. 263)
+- TC (top1_acc) - # datasets where LLM predicted Top1 target column exactly matches with the ground-truth target column / total # datasets (i.e. 263)
+- TC (top3_acc) - # datasets where LLM predicted Top3 target column contains the ground-truth target column / total # datasets (i.e. 263)
+- MLT \| TC (top1_acc) - # datasets where predicted ML task type with respect to the top1 predicted target column exactly matches the ground-truth task type / total # datasets (i.e. 263)
 
 # Results
 
