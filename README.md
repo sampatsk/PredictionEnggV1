@@ -30,7 +30,7 @@ Files with more than one target columns (LLM based target prediction only predic
 - sf1.csv
 - sf2.csv
 
-Accuracy is calculated over 275 (total csvs) - 11 (above exceptions) = 264 count
+Accuracy is calculated over 275 (total csvs) - 12 (above exceptions) = 263 count
 
 # Run batch script
 
