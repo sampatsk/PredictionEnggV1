@@ -90,7 +90,7 @@ def main():
     count = 0
     f = open('GT_target_task.json')
     jsondata = json.load(f)
-    with open('results_march31_FCAI.csv', 'a+') as csvfile:
+    with open('results_march19_FCAI.csv', 'a+') as csvfile:
         csvwriter = csv.writer(csvfile)
         for filename in os.listdir(dataset_path):
             tgt, mltsk = [], ""
