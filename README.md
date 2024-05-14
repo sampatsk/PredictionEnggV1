@@ -58,9 +58,9 @@ Column headers of result files are as follws:
 This process can take some time as there are some delays (time.sleep) purposely added to prevent exceeding token limit of LLMs per minute.
 
 # Evaluation Metrics
-TC (top1_acc) - # datasets where LLM predicted Top1 target column exactly matches with the ground-truth target column / total # datasers (i.e. 263)
-TC (top3_acc) - # datasets where LLM predicted Top3 target column contains the ground-truth target column / total # datasers (i.e. 263)
-MLT \| TC (top1_acc) - # datasets where predicted ML task type target column contains the ground-truth target column / total # datasers (i.e. 263)
+- TC (top1_acc) - # datasets where LLM predicted Top1 target column exactly matches with the ground-truth target column / total # datasers (i.e. 263)
+- TC (top3_acc) - # datasets where LLM predicted Top3 target column contains the ground-truth target column / total # datasers (i.e. 263)
+- MLT \| TC (top1_acc) - # datasets where predicted ML task type target column contains the ground-truth target column / total # datasers (i.e. 263)
 
 # Results
 
