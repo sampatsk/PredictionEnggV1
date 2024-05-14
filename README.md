@@ -12,12 +12,8 @@ For AutoDW code, visit https://dlvault.fla.fujitsu.com/lliu/Data_wrangling_LLM/t
 
 # Test on following files will be ignored due to certain assumptions
 
-Files with more than 5000 columns (due to LLM token limit and streamlit demo too slow, so user has to do manual selection)
-- 
--
--
--
--
+Files with more than 10000 columns (due to LLM token limit and streamlit demo being too slow, so user has to do manual selection)
+- 1128.csv
 
 Files larger than 1G in size (streamlit demo limits files size to 1G currently)
 - austinreese_craigslist-carstrucks-data_vehicles.csv
@@ -25,6 +21,15 @@ Files larger than 1G in size (streamlit demo limits files size to 1G currently)
 - g-research-crypto-forecasting_train.csv
 - Microsoft-Malware-Prediction.csv
 - predict-closed-questions-on-stack-overflow_train.csv
+
+Files with more than one target columns (LLM based target prediction only predicts top-1 result by default)
+- enb.csv
+- jura.csv
+- kevinmh_fifa-18-more-complete-player-dataset_complete.csv
+- sf1.csv
+- sf2.csv
+
+Accuracy is calculated over 275 (total csvs) - 11 (above exceptions) = 264 count
 
 # Run batch script
 
