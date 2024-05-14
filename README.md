@@ -30,6 +30,7 @@ Files with more than one target columns (LLM based target prediction only predic
 - sf1.csv
 - sf2.csv
 
+GT_target_task.json file contains ground-truth target column and ML task type for each dataset, against which accuracy will be calculated\
 Accuracy is calculated over 275 (total csvs) - 12 (above exceptions) = 263 count
 
 # Run batch script
@@ -39,17 +40,35 @@ Follow entire installation instructions mentioned on the "Getting Started" secti
 ```cd PredictionEnggV1```\
 ```conda activate <name_of_env>```\
 ```python PE_<date>_<year>.py```\
-This will iterate over all datasets and store prediction results in respective results_<date>_<year>.csv file.
+
+This will iterate over all datasets and store prediction results in respective ```results_<date>_<year>.csv``` file.
+
+Column headers of result files are as follws:
+- dataset name
+- predicted target col (top1)
+- GT target col (top1)
+- correct target column (top1)
+- predicted target col (top3)
+- correct target column (top3)
+- predicted task type
+- GT task type
+- correct task type
+- multiple GT target cols
 
 This process can take some time as there are some delays (time.sleep) purposely added to prevent exceeding token limit of LLMs per minute.
 
+# Evaluation Metrics
+TC (top1_acc) - # datasets where LLM predicted Top1 target column exactly matches with the ground-truth target column / total # datasers (i.e. 263)
+TC (top3_acc) - # datasets where LLM predicted Top3 target column contains the ground-truth target column / total # datasers (i.e. 263)
+MLT \| TC (top1_acc) - # datasets where predicted ML task type target column contains the ground-truth target column / total # datasers (i.e. 263)
+
 # Results
 
-| Version                             | LLM            | TC (top1_acc) | TC (top3_acc) | MLT |
-|-------------------------------------|----------------|---------------|---------------|-----|
-| PE_march19_2024 (v1 kozuchi)        | Azure OpenAI   |               |               |     |
-|                                     | Fujitsu ChatAI |               |               |     |
-| PE_may12_2024 (LLM Auth)            | Azure OpenAI   |               |               |     |
-|                                     | Fujitsu ChatAI |               |               |     |
-| PE_mayXX_2024 (user/system prompt)  | Azure OpenAI   |               |               |     |
-|                                     | Fujitsu ChatAI |               |               |     |
+| Version                            | LLM            | TC (top1_acc) | TC (top3_acc) | MLT \| TC (top1_acc) |
+|------------------------------------|----------------|---------------|---------------|----------------------|
+| PE_march19_2024 (v1 kozuchi)       | Azure OpenAI   | 0.84          | 0.91          | 0.85                 |
+|                                    | Fujitsu ChatAI | 0.74          | 0.80          | 0.74                 |
+| PE_may12_2024 (LLM Auth)           | Azure OpenAI   |               |               |                      |
+|                                    | Fujitsu ChatAI |               |               |                      |
+| PE_mayXX_2024 (user/system prompt) | Azure OpenAI   |               |               |                      |
+|                                    | Fujitsu ChatAI |               |               |                      |
