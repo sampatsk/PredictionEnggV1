@@ -68,14 +68,15 @@ Column of result files are as follws:
 
 # Results
 
-| Version                            | LLM            | TC (top1_acc) | TC (top3_acc) | MLT \| Top1 TC       |
+| Version                            | LLM            | TC (top1_acc) | TC (top3_acc) | MLT \| Correct TC    |
 |------------------------------------|----------------|---------------|---------------|----------------------|
 | PE_march19_2024 (v2 kozuchi)       | Azure OpenAI   | 0.84          | 0.91          | 0.85                 |
 |                                    | Fujitsu ChatAI | 0.74          | 0.80          | 0.74                 |
 | PE_may12_2024 (LLM Auth)           | Azure OpenAI   | 0.87          | 0.94          | 0.88                 |
 |                                    | Fujitsu ChatAI | 0.72          | 0.80          | 0.73                 |
-| PE_may15_2024 (user/system prompt) | Azure OpenAI   |               |               |                      |
-|                                    | Fujitsu ChatAI |               |               |                      |
+| PE_may15_2024 (user/system prompt) | Azure OpenAI   | 0.87          | 0.94          | 0.88                 |
+|                                    | Fujitsu ChatAI | 0.71          | 0.79          | 0.72                 |
 
-Note: This process can take some time as there are some delays (time.sleep) purposely added to prevent exceeding token limit of LLMs per minute.\
 Note: This script relies on LLMs, therefore it is possible that there are deviations in the predictions (and hence performance reported above) across multiple runs despite temperature set to 0. 
+
+Note: This process can take some time as there are some delays (time.sleep) purposely added to prevent exceeding token limit of LLMs per minute.
